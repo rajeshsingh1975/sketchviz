@@ -1,0 +1,819 @@
+{
+  "search_execution": {
+    "executed_at": "2025-12-06T00:10:00Z",
+    "vectors_searched": 8,
+    "total_results": 38
+  },
+  "sources": [
+    {
+      "id": "src_001",
+      "search_vector_id": "sv_1",
+      "url": "https://improvado.io/blog/instagram-growth-strategies",
+      "title": "Instagram Growth Tips for 2025: Boost Views & Engagement",
+      "author": "Improvado",
+      "publication": "Improvado Blog",
+      "date": "2025-01-01",
+      "recency_score": "high",
+      "authority_score": "medium",
+      "bias_score": "low",
+      "status": "accepted",
+      "rejection_reason": null,
+      "excerpt": "Key strategies for growing Instagram followers in 2025 involve producing genuine, engaging content specific to your niche, utilizing Reels and Stories for increased algorithmic visibility. Reels and the Explore tab have changed, favoring original content and 3-second viewer retention over old vanity metrics like likes. Engagement quality is prioritized with saves + shares > likes + comments as signals. Carousels achieve a 0.55% average engagement rate. Reels under 30 seconds are ideal for reaching new audiences as longer Reels don't typically appear in search and recommended posts, but Reels from 30-90 seconds are great for existing audiences. Optimal hashtags: 3 to 5 is best.",
+      "key_claims": [
+        "Saves + shares are more important than likes + comments for algorithm",
+        "Carousels achieve 0.55% average engagement rate",
+        "Reels under 30 seconds best for new audience reach",
+        "Use 3-5 hashtags for optimal performance"
+      ]
+    },
+    {
+      "id": "src_002",
+      "search_vector_id": "sv_1",
+      "url": "https://www.socialinsider.io/blog/instagram-benchmarks/",
+      "title": "Instagram Benchmarks 2025: Key Insights",
+      "author": "SocialInsider",
+      "publication": "SocialInsider",
+      "date": "2025-01-01",
+      "recency_score": "high",
+      "authority_score": "high",
+      "bias_score": "low",
+      "status": "accepted",
+      "rejection_reason": null,
+      "excerpt": "Industry benchmarks for Instagram engagement rates and performance metrics in 2025. Provides data-driven insights into what constitutes strong performance across different account sizes and niches. Emphasizes the importance of tracking engagement quality metrics rather than vanity metrics.",
+      "key_claims": [
+        "Industry-specific engagement rate benchmarks available for 2025",
+        "Performance varies significantly by account size and niche",
+        "Quality engagement metrics are more important than follower count"
+      ]
+    },
+    {
+      "id": "src_003",
+      "search_vector_id": "sv_1",
+      "url": "https://stackinfluence.com/instagram-2025-algorithm-shake-up/",
+      "title": "Instagram's 2025 Algorithm: What Creators Must Do",
+      "author": "Stack Influence",
+      "publication": "Stack Influence",
+      "date": "2025-01-01",
+      "recency_score": "high",
+      "authority_score": "medium",
+      "bias_score": "low",
+      "status": "accepted",
+      "rejection_reason": null,
+      "excerpt": "Instagram's 2025 algorithm prioritizes comment-to-view ratio more heavily than like-to-view ratio. Influencers who advocate for values see 45% higher engagement rates when promoting aligned products. Consider micro-influencers (fewer than 100k followers) as they often have higher engagement and are more affordable. Micro influencers and nano influencers provide higher ROI by keeping costs low while driving strong engagement rates, with brands working with nano influencers seeing up to a 60% lift in response compared to celebrity partnerships.",
+      "key_claims": [
+        "Comment-to-view ratio weighted more heavily than like-to-view ratio",
+        "Values-aligned content sees 45% higher engagement",
+        "Nano influencers generate 60% higher response vs celebrities"
+      ]
+    },
+    {
+      "id": "src_004",
+      "search_vector_id": "sv_1",
+      "url": "https://www.podbase.com/blogs/how-to-get-tiktok-followers",
+      "title": "How to Get TikTok Followers (2025): 13 Growth Tips",
+      "author": "Podbase",
+      "publication": "Podbase",
+      "date": "2025-01-01",
+      "recency_score": "high",
+      "authority_score": "medium",
+      "bias_score": "low",
+      "status": "accepted",
+      "rejection_reason": null,
+      "excerpt": "TikTok pushes videos with strong watch time, likes, and full views, with longer engagement leading to more reach. The 3-second rule means you need to grab viewers' attention in the first three seconds of your video. The algorithm favors accounts that post regularly and consistently, aiming for at least 1-3 high-quality posts per day. However, some creators have seen solid audience growth with two or three videos a month. The fastest way to grow a loyal TikTok following is to stop chasing trends and start delivering clarity, value, and consistency in a very specific lane.",
+      "key_claims": [
+        "3-second hook rule is critical for TikTok",
+        "Post 1-3 high-quality videos per day for algorithm favor",
+        "Niche consistency beats trend-chasing for loyal following"
+      ]
+    },
+    {
+      "id": "src_005",
+      "search_vector_id": "sv_1",
+      "url": "https://sproutsocial.com/insights/how-to-get-more-followers-on-tiktok/",
+      "title": "25 Ways to Get More Followers on TikTok in 2025",
+      "author": "Sprout Social",
+      "publication": "Sprout Social",
+      "date": "2025-01-01",
+      "recency_score": "high",
+      "authority_score": "high",
+      "bias_score": "low",
+      "status": "accepted",
+      "rejection_reason": null,
+      "excerpt": "Series content works well because audiences crave something consistent and worth returning to. A good hashtag strategy includes: 1-2 broad hashtags (1M+ posts) for discovery, 3-4 niche hashtags (10K-1M posts) for targeted reach, 1-2 branded hashtags unique to your content, and 1-2 trending hashtags when relevant. TikTok's Pro Analytics in 2025 is incredibly detailed, allowing you to analyze when your audience is most active, what their interests are, and which videos brought them in to double down on what works. Reply to as many comments as possible to build relationships. A clear bio tells visitors who you are and why they should follow you.",
+      "key_claims": [
+        "Content series increase audience retention and consistency",
+        "Use 1-2 broad, 3-4 niche, 1-2 branded, 1-2 trending hashtags",
+        "TikTok Pro Analytics provides detailed audience insights",
+        "Comment engagement is critical for relationship building"
+      ]
+    },
+    {
+      "id": "src_006",
+      "search_vector_id": "sv_2",
+      "url": "https://www.hopperhq.com/blog/instagram-posting-frequency-2025/",
+      "title": "How Often Should You Post on Instagram in 2025?",
+      "author": "Hopper HQ",
+      "publication": "Hopper HQ",
+      "date": "2025-01-01",
+      "recency_score": "high",
+      "authority_score": "medium",
+      "bias_score": "low",
+      "status": "accepted",
+      "rejection_reason": null,
+      "excerpt": "The ideal Instagram posting frequency is 3-5 times per week on your feed, share 2-4 Reels, and use Stories daily or almost every day. However, another source suggests the sweet spot sits at 5-7 Reels per week, aligning with Instagram's official recommendations. Instagram's algorithm now prioritizes regular activity and audience connection over volume. Consistency matters more than volume. Aim for a steady rhythm your audience can rely on.",
+      "key_claims": [
+        "Post 3-5 times per week on feed",
+        "Share 2-4 Reels per week (some sources say 5-7)",
+        "Use Stories daily",
+        "Consistency beats volume for algorithm"
+      ]
+    },
+    {
+      "id": "src_007",
+      "search_vector_id": "sv_2",
+      "url": "https://buffer.com/resources/how-often-to-post-on-instagram/",
+      "title": "How Often Should You Post on Instagram in 2025? What Data From 2 Million Posts Tells Us",
+      "author": "Buffer",
+      "publication": "Buffer",
+      "date": "2025-01-01",
+      "recency_score": "high",
+      "authority_score": "high",
+      "bias_score": "low",
+      "status": "accepted",
+      "rejection_reason": null,
+      "excerpt": "Buffer data shows that posting 3-5 times per week on Instagram is likely the sweet spot for achieving both reach and growth without burning out or sacrificing quality. This data is based on analysis of 2 million Instagram posts, providing robust statistical backing for posting frequency recommendations.",
+      "key_claims": [
+        "3-5 posts per week is optimal based on 2M post analysis",
+        "This frequency balances reach, growth, and sustainability",
+        "Data-driven recommendation from large sample size"
+      ]
+    },
+    {
+      "id": "src_008",
+      "search_vector_id": "sv_2",
+      "url": "https://code3.com/resources/how-health-wellness-brands-can-win-on-tiktok-in-2025/",
+      "title": "How Health & Wellness Brands Can Win on TikTok in 2025",
+      "author": "Code3",
+      "publication": "Code3",
+      "date": "2025-01-01",
+      "recency_score": "high",
+      "authority_score": "medium",
+      "bias_score": "medium",
+      "status": "accepted",
+      "rejection_reason": null,
+      "excerpt": "The U.S. dietary supplement market is projected to hit $61B by the end of 2025, with key growth areas including digestive health, mental and cognitive support and immune and preventative care. 60% of doctors have changed their perception of medication due to influencer content. The strongest TikTok strategies are built around 3-4 content pillars—recurring themes that make your brand feel consistent, but never repetitive. Use a 70-30 mix: 70% trending audio with high engagement, 30% original or less-saturated audio. Most growth studies recommend 3-5 posts weekly for consistent algorithmic amplification. Authenticity being non-negotiable—users can smell a scripted ad from a mile away.",
+      "key_claims": [
+        "60% of doctors influenced by creator content",
+        "Use 3-4 content pillars for consistency",
+        "70% trending audio, 30% original audio mix",
+        "Post 3-5 times weekly for algorithmic favor",
+        "Authenticity is non-negotiable in wellness niche"
+      ]
+    },
+    {
+      "id": "src_009",
+      "search_vector_id": "sv_2",
+      "url": "https://metricool.com/tiktok-strategy/",
+      "title": "TikTok Content Strategy Guide 2025",
+      "author": "Metricool",
+      "publication": "Metricool",
+      "date": "2025-01-01",
+      "recency_score": "high",
+      "authority_score": "medium",
+      "bias_score": "low",
+      "status": "accepted",
+      "rejection_reason": null,
+      "excerpt": "TikTok thrives on short-form, entertainment-driven content that blends seamlessly with organic user-generated videos. Consistency matters more than frequency—three posts every Tuesday and Friday outperforms sporadic posting of seven videos weekly. Choose between 3-5 content pillars to diversify the content mix and ensure you're balancing branded vs. non-branded posts. Common content pillar types for 2025 include: Educational, behind-the-scenes, trend participation, UGC, and entertainment.",
+      "key_claims": [
+        "Consistent schedule beats sporadic high-volume posting",
+        "Use 3-5 content pillars for balance",
+        "Content types: Educational, BTS, trends, UGC, entertainment"
+      ]
+    },
+    {
+      "id": "src_010",
+      "search_vector_id": "sv_3",
+      "url": "https://www.heightsplatform.com/blog/how-to-price-your-online-coaching-programs",
+      "title": "How to Price Your Online Coaching Programs",
+      "author": "Heights Platform",
+      "publication": "Heights Platform",
+      "date": "2024-06-01",
+      "recency_score": "high",
+      "authority_score": "medium",
+      "bias_score": "medium",
+      "status": "accepted",
+      "rejection_reason": null,
+      "excerpt": "Coaching fees range from $100 to $300 per hour for newer coaches, and over $500 per hour for experienced business coaches. Entry-level programs may cost $100-$300, while premium coaching packages can range from $1,000 to $5,000+ depending on length and support. Many coaches charge 30% of their 1-on-1 coaching rate for group coaching - for example, if you charge $500 per session for 1-on-1, you might charge $150 per person for group coaching.",
+      "key_claims": [
+        "New coaches: $100-300/hour",
+        "Experienced coaches: $500+/hour",
+        "Entry programs: $100-300",
+        "Premium packages: $1,000-$5,000+",
+        "Group coaching: 30% of 1-on-1 rate"
+      ]
+    },
+    {
+      "id": "src_011",
+      "search_vector_id": "sv_3",
+      "url": "https://luisazhou.com/blog/how-to-price-your-coaching-program/",
+      "title": "How to Price Your Coaching Packages in 2025",
+      "author": "Luisa Zhou",
+      "publication": "Luisa Zhou Blog",
+      "date": "2025-01-01",
+      "recency_score": "high",
+      "authority_score": "medium",
+      "bias_score": "medium",
+      "status": "accepted",
+      "rejection_reason": null,
+      "excerpt": "Prices for a single session of 1-on-1 coaching can vary, but generally are over $100, sometimes up to $1000. A digital course might have a basic plan at $49, an advanced at $99, and a premium at $199 with coaching or additional resources. Set a price based on value, time, and transformation. Prices ending in 9 or 7 often convert better than round numbers for lower-priced items, however, round numbers can signal premium quality for higher-priced products.",
+      "key_claims": [
+        "1-on-1 coaching: $100-$1,000 per session",
+        "Digital course tiers: $49 (basic), $99 (advanced), $199 (premium)",
+        "Price on value and transformation, not just time",
+        "Pricing psychology: 9/7 endings for lower prices, round for premium"
+      ]
+    },
+    {
+      "id": "src_012",
+      "search_vector_id": "sv_3",
+      "url": "https://www.automateed.com/how-to-price-digital-products",
+      "title": "How to Price Digital Products Effectively in 2025",
+      "author": "Automateed",
+      "publication": "Automateed",
+      "date": "2025-01-01",
+      "recency_score": "high",
+      "authority_score": "medium",
+      "bias_score": "low",
+      "status": "accepted",
+      "rejection_reason": null,
+      "excerpt": "A digital art membership site might charge $29/month, providing exclusive tutorials, assets, and live support. Research market rates and decide which pricing model (hourly, package, or value-based) fits your business. Digital product pricing should reflect the transformation and value delivered to customers.",
+      "key_claims": [
+        "Membership sites: ~$29/month typical",
+        "Choose pricing model: hourly, package, or value-based",
+        "Price reflects transformation, not just content"
+      ]
+    },
+    {
+      "id": "src_013",
+      "search_vector_id": "sv_3",
+      "url": "https://influencermarketinghub.com/tiktok-money-calculator/",
+      "title": "TikTok Money Calculator: Influencer Engagement & Earnings Estimator",
+      "author": "Influencer Marketing Hub",
+      "publication": "Influencer Marketing Hub",
+      "date": "2025-01-01",
+      "recency_score": "high",
+      "authority_score": "high",
+      "bias_score": "low",
+      "status": "accepted",
+      "rejection_reason": null,
+      "excerpt": "Helps you get an estimate of what you can earn as an influencer on TikTok based on your follower count and engagement. Creators with 10K+ engaged followers can earn $200-$400+ per sponsored post. From the Creator Rewards Program, TikTok pays $0.40-$1.00 per 1,000 views in the US.",
+      "key_claims": [
+        "10K+ followers: $200-$400+ per sponsored post",
+        "Creator Rewards: $0.40-$1.00 per 1K views (US)"
+      ]
+    },
+    {
+      "id": "src_014",
+      "search_vector_id": "sv_3",
+      "url": "https://collabstr.com/influencer-price-calculator",
+      "title": "Influencer Price Calculator for Instagram, TikTok, YouTube",
+      "author": "Collabstr",
+      "publication": "Collabstr",
+      "date": "2025-01-01",
+      "recency_score": "high",
+      "authority_score": "high",
+      "bias_score": "low",
+      "status": "accepted",
+      "rejection_reason": null,
+      "excerpt": "Works by consolidating data from over 150,000 content packages from real influencers to accurately provide sponsorship pricing based on real data. Nano influencers (1K-10K followers) can make between $10 or $100 per post, while micro-influencers (accounts with 10,000 to 100,000 followers) can earn around $25 to $125 per post. Micro creators (10K-100K) typically earn $200-$1,500 per post.",
+      "key_claims": [
+        "Data from 150K+ real influencer packages",
+        "Nano (1-10K): $10-$100 per post",
+        "Micro (10-100K): $25-$125 per post (some sources say $200-$1,500)",
+        "Engagement matters more than follower count"
+      ]
+    },
+    {
+      "id": "src_015",
+      "search_vector_id": "sv_4",
+      "url": "https://milx.app/en/trends/youtube-vs-tiktok-vs-instagram-which-platform-pays-the-most-in-2025",
+      "title": "Creator earnings comparison 2025: YouTube vs TikTok vs Instagram",
+      "author": "MilX",
+      "publication": "MilX",
+      "date": "2025-01-01",
+      "recency_score": "high",
+      "authority_score": "medium",
+      "bias_score": "low",
+      "status": "accepted",
+      "rejection_reason": null,
+      "excerpt": "TikTok pays an estimated $0.50 to $1.00 per 1,000 views through its Creator Rewards Program. The 2025 Reels Play Bonus incentive works on a dynamic payment model where earnings scale with viewcount tiers, ranging from $0.50-$3 per 1,000 views for lower tiers to $8-$12 per 1,000 views for exceptional performance. Instagram brand deals offer 2-5x higher rates compared to TikTok. TikTok offers lower barriers to monetization with 5,000-10,000 followers needed for $1,000 monthly income, while Instagram requires 10,000+ followers.",
+      "key_claims": [
+        "TikTok Creator Rewards: $0.50-$1.00 per 1K views",
+        "Instagram Reels Bonus: $0.50-$12 per 1K views (tiered)",
+        "Instagram brand deals: 2-5x higher than TikTok",
+        "TikTok lower barrier: 5-10K followers for $1K/month",
+        "Instagram barrier: 10K+ followers needed"
+      ]
+    },
+    {
+      "id": "src_016",
+      "search_vector_id": "sv_4",
+      "url": "https://ecommercefastlane.com/instagram-tiktok-revenue-comparison/",
+      "title": "Instagram Vs TikTok Earnings: What Pays More For Shopify In 2025?",
+      "author": "Ecommerce Fastlane",
+      "publication": "Ecommerce Fastlane",
+      "date": "2025-01-01",
+      "recency_score": "high",
+      "authority_score": "medium",
+      "bias_score": "medium",
+      "status": "accepted",
+      "rejection_reason": null,
+      "excerpt": "TikTok Shop currently charges 8% commission on sales—3 percentage points higher than Instagram Shopping's 5% rate. TikTok's conversion advantage converts window shoppers at 2.5x Instagram's rate due to native checkout. Lower ad costs ($0.25-$1.50 CPC vs Instagram's $0.50-$3.00) offset higher commissions. The most successful creators in 2025 use both platforms strategically, leveraging TikTok for discovery and Instagram for monetization depth.",
+      "key_claims": [
+        "TikTok Shop commission: 8% vs Instagram 5%",
+        "TikTok converts at 2.5x Instagram's rate",
+        "TikTok CPC: $0.25-$1.50 vs Instagram $0.50-$3.00",
+        "Strategy: TikTok for discovery, Instagram for monetization"
+      ]
+    },
+    {
+      "id": "src_017",
+      "search_vector_id": "sv_4",
+      "url": "https://www.theleap.co/blog/tiktok-instagram-reels-youtube-shorts-monetization-comparison/",
+      "title": "TikTok vs. YouTube Shorts vs. Instagram Reels: Which One Makes You Money in 2025?",
+      "author": "The Leap",
+      "publication": "The Leap",
+      "date": "2025-01-01",
+      "recency_score": "high",
+      "authority_score": "medium",
+      "bias_score": "low",
+      "status": "accepted",
+      "rejection_reason": null,
+      "excerpt": "Comprehensive comparison of monetization features across short-form video platforms in 2025, analyzing which platforms offer the best earning potential for creators at different follower tiers.",
+      "key_claims": [
+        "Each platform has distinct monetization strengths",
+        "Creator Rewards programs vary significantly by platform",
+        "Multi-platform strategy maximizes earnings"
+      ]
+    },
+    {
+      "id": "src_018",
+      "search_vector_id": "sv_5",
+      "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC11490978/",
+      "title": "It's really hard to strike a balance: The role of digital influencers in shaping youth mental health",
+      "author": "National Institutes of Health",
+      "publication": "PMC - PubMed Central",
+      "date": "2024-10-01",
+      "recency_score": "high",
+      "authority_score": "high",
+      "bias_score": "low",
+      "status": "accepted",
+      "rejection_reason": null,
+      "excerpt": "Youth participants expressed concerns about mental health influencers profiting from vulnerable populations, stating it 'doesn't seem super ethical'. Some described influencers as exploiting mental health to sell products, with creators characterized as 'people who prey on people's insecurities/mental health struggles to promote a product'. Regularly posting about mental health was deemed critical for demonstrating genuine interest and authenticity. However, some participants warned that constantly discussing mental health 'can be exhausting for a viewer to be constantly consuming this information'.",
+      "key_claims": [
+        "Youth concerned about profiting from vulnerable populations",
+        "Risk of exploitation when promoting products",
+        "Regular posting demonstrates authenticity",
+        "Too much mental health content can exhaust viewers",
+        "Balance needed between monetization and ethics"
+      ]
+    },
+    {
+      "id": "src_019",
+      "search_vector_id": "sv_5",
+      "url": "https://captivcontent.com/2025/05/12/how-to-build-authentic-mental-health-influence-a-guide-for-modern-content-creators/",
+      "title": "How to Build Authentic Mental Health Influence: A Guide for Modern Content Creators",
+      "author": "CaptivContent",
+      "publication": "CaptivContent",
+      "date": "2025-05-12",
+      "recency_score": "high",
+      "authority_score": "medium",
+      "bias_score": "low",
+      "status": "accepted",
+      "rejection_reason": null,
+      "excerpt": "Ethical monetization requires transparency in all partnerships, clear disclosure of commercial relationships, and prioritizing the community's wellbeing over commercial interests. Authenticity in mental health content is critical for building trust with audiences.",
+      "key_claims": [
+        "Transparency required in all partnerships",
+        "Clear disclosure of commercial relationships mandatory",
+        "Community wellbeing must be prioritized over profits",
+        "Authenticity builds trust in mental health niche"
+      ]
+    },
+    {
+      "id": "src_020",
+      "search_vector_id": "sv_5",
+      "url": "https://link.springer.com/article/10.1007/s10591-021-09632-3",
+      "title": "Ethics for Mental Health Influencers: MFTs as Public Social Media Personalities",
+      "author": "Contemporary Family Therapy",
+      "publication": "Springer",
+      "date": "2021-12-01",
+      "recency_score": "medium",
+      "authority_score": "high",
+      "bias_score": "low",
+      "status": "accepted",
+      "rejection_reason": null,
+      "excerpt": "Ethical issues for mental health professionals include dilemmas that may emerge via parasocial relationships developed through social media influencing, as well as how professional boundaries can be tested when presenting as a personable, public figure. Current ethical guidelines for therapists who use social media are very limited and leave much open to interpretation. The American Psychological Association Ethical Standards do not include direct guidance about how psychologists should navigate social media.",
+      "key_claims": [
+        "Parasocial relationships create ethical dilemmas",
+        "Professional boundaries tested by public persona",
+        "Limited ethical guidelines for therapist-influencers",
+        "APA standards lack social media guidance"
+      ]
+    },
+    {
+      "id": "src_021",
+      "search_vector_id": "sv_6",
+      "url": "https://www.fitbudd.com/post/how-much-do-fitness-influencers-make-in-2025",
+      "title": "How Much Do Fitness Influencers Make in 2025?",
+      "author": "FitBudd",
+      "publication": "FitBudd",
+      "date": "2025-01-01",
+      "recency_score": "high",
+      "authority_score": "medium",
+      "bias_score": "medium",
+      "status": "accepted",
+      "rejection_reason": null,
+      "excerpt": "In 2025, fitness influencers in the USA typically earn: Nano Influencers (1K-10K followers): $50-$200 per post; Micro Influencers (10K-100K followers): $200-$1,000 per post; Mid-Tier Influencers (100K-500K followers): $1,000-$5,000 per post. Revenue streams include brand partnerships and sponsorships (the most common), and affiliate marketing where influencers earn commissions for every sale made through their recommendation. Digital products like workout plans typically range from $30 to $150.",
+      "key_claims": [
+        "Nano (1-10K): $50-$200 per post",
+        "Micro (10-100K): $200-$1,000 per post",
+        "Mid-tier (100-500K): $1,000-$5,000 per post",
+        "Digital workout plans: $30-$150"
+      ]
+    },
+    {
+      "id": "src_022",
+      "search_vector_id": "sv_6",
+      "url": "https://www.exercise.com/grow/how-much-do-fitness-influencers-make-with-50k-followers/",
+      "title": "How much do fitness influencers make with 50k followers?",
+      "author": "Exercise.com",
+      "publication": "Exercise.com",
+      "date": "2024-08-01",
+      "recency_score": "high",
+      "authority_score": "medium",
+      "bias_score": "medium",
+      "status": "accepted",
+      "rejection_reason": null,
+      "excerpt": "Fitness influencers with around 50k followers can earn anywhere from $200 to $1,000 per sponsored post, which means they would need approximately 10-50 sponsored posts per month to reach $10K in monthly earnings from sponsorships alone. An influencer with 100k highly engaged followers can potentially earn more than an influencer with double or triple the followers but a lower engagement rate.",
+      "key_claims": [
+        "50K followers: $200-$1,000 per sponsored post",
+        "Need 10-50 posts/month for $10K from sponsorships alone",
+        "Engagement rate matters more than follower count"
+      ]
+    },
+    {
+      "id": "src_023",
+      "search_vector_id": "sv_6",
+      "url": "https://influencermarketinghub.com/creator-monetization/",
+      "title": "The Ultimate Creator Monetization Roadmap for 2025",
+      "author": "Influencer Marketing Hub",
+      "publication": "Influencer Marketing Hub",
+      "date": "2025-01-01",
+      "recency_score": "high",
+      "authority_score": "high",
+      "bias_score": "low",
+      "status": "accepted",
+      "rejection_reason": null,
+      "excerpt": "Comprehensive roadmap for creator monetization strategies in 2025, covering multiple revenue streams, platform-specific tactics, and growth strategies for different creator tiers.",
+      "key_claims": [
+        "Multi-stream monetization is essential for sustainability",
+        "Platform-specific strategies vary significantly",
+        "Growth strategies differ by creator tier and niche"
+      ]
+    },
+    {
+      "id": "src_024",
+      "search_vector_id": "sv_6",
+      "url": "https://www.spiralytics.com/blog/content-creator-statistics-2025/",
+      "title": "2025 Content Creator Economy: 71 Statistics & Key Insights",
+      "author": "Spiralytics",
+      "publication": "Spiralytics",
+      "date": "2025-01-01",
+      "recency_score": "high",
+      "authority_score": "medium",
+      "bias_score": "low",
+      "status": "accepted",
+      "rejection_reason": null,
+      "excerpt": "The global content creator economy is valued at over $250 billion and is projected to reach $480 billion by 2027. 50% of creators earn up to $5,000 annually, 17% make $30,000-$100,000, and 7% over $100,000. About 4% of creators earn over $100,000 annually. 98% of creators earn through affiliate commissions, and 77% rely on brand deals. In 2024, creators earned $1.1 billion from affiliate marketing, nearly doubling from $570 million in 2021.",
+      "key_claims": [
+        "Creator economy: $250B (2025), $480B projected by 2027",
+        "50% of creators earn under $5K/year",
+        "4% of creators earn over $100K/year",
+        "98% use affiliate marketing",
+        "77% rely on brand deals",
+        "Affiliate earnings doubled 2021-2024"
+      ]
+    },
+    {
+      "id": "src_025",
+      "search_vector_id": "sv_6",
+      "url": "https://ts2.tech/en/the-2025-2026-content-monetization-gold-rush-how-creators-are-cashing-in-across-every-platform/",
+      "title": "The 2025–2026 Content Monetization Gold Rush",
+      "author": "TS2 Space",
+      "publication": "TS2 Space",
+      "date": "2025-01-01",
+      "recency_score": "high",
+      "authority_score": "medium",
+      "bias_score": "low",
+      "status": "accepted",
+      "rejection_reason": null,
+      "excerpt": "Case studies of successful creators: Maya Rodriguez (Beauty Creator) leveraged her beauty channel to feature authentic reviews and built a 45K-subscriber email list, bringing in $320K+ per year in affiliate commissions with an 8.5% conversion rate. David Park (Finance Creator) packaged budgeting advice into courses ($297), tracker templates ($19/month), and group coaching ($997/quarter), reaching $450K+ in digital product revenue. A fitness creator scaled from a $29 digital workout guide to a full course platform with private label supplements, growing annual income to over $500K.",
+      "key_claims": [
+        "Beauty creator: $320K+/year from affiliate (45K email list)",
+        "Finance creator: $450K+ from courses + templates + coaching",
+        "Fitness creator: $500K+ with courses + supplements",
+        "Product stacking drives high revenue"
+      ]
+    },
+    {
+      "id": "src_026",
+      "search_vector_id": "sv_7",
+      "url": "https://www.automateed.com/creator-income-streams-2025",
+      "title": "Creator Income Streams 2025: How to Thrive & Diversify",
+      "author": "Automateed",
+      "publication": "Automateed",
+      "date": "2025-01-01",
+      "recency_score": "high",
+      "authority_score": "medium",
+      "bias_score": "low",
+      "status": "accepted",
+      "rejection_reason": null,
+      "excerpt": "Nearly 70% of creators run multiple income streams in 2025, with common channels including sponsored content (82%), affiliate marketing (60%), merchandise sales (67%), and subscription models. Creators with seven or more distinct revenue streams are the ones most consistently hitting those high annual earnings. Health and wellness affiliate commissions range from 8-15%, and digital products often offer 20-50% or higher. YouTube remains the king of creator earnings in 2025, with 28.6% of creators saying it's their best income source, followed by TikTok at 18.3%, Facebook at 16.5%, Instagram at 11.8%.",
+      "key_claims": [
+        "70% of creators have multiple income streams",
+        "7+ revenue streams correlate with highest earnings",
+        "Sponsored content: 82% participation",
+        "Affiliate marketing: 60% participation",
+        "Wellness affiliate commissions: 8-15%",
+        "Digital product commissions: 20-50%+",
+        "YouTube best earner (28.6%), then TikTok (18.3%), Instagram (11.8%)"
+      ]
+    },
+    {
+      "id": "src_027",
+      "search_vector_id": "sv_7",
+      "url": "https://rupa.pro/blog/5-proven-content-revenue-streams-top-creators-used-in-2025/",
+      "title": "5 Proven Content Revenue Streams Top Creators Used in 2025",
+      "author": "Rupa",
+      "publication": "Rupa",
+      "date": "2025-01-01",
+      "recency_score": "high",
+      "authority_score": "medium",
+      "bias_score": "low",
+      "status": "accepted",
+      "rejection_reason": null,
+      "excerpt": "Affiliate marketing gives creators a way to earn passive income while they provide value to their audiences, where content creators earn commissions by promoting products and services from brands through trackable links. Successful digital product creators often earn $500-$5,000 monthly by creating multiple complementary products that serve the same audience. The search results emphasize that diversification and combining 2-3 income streams creates financial stability for creators in 2025.",
+      "key_claims": [
+        "Affiliate marketing provides passive income",
+        "Digital products: $500-$5K/month typical",
+        "Create complementary product suite",
+        "Combine 2-3 income streams for stability"
+      ]
+    },
+    {
+      "id": "src_028",
+      "search_vector_id": "sv_7",
+      "url": "https://www.amraandelma.com/tiktokers-building-multiple-income-streams/",
+      "title": "25 TOP TIKTOKERS BUILDING MULTIPLE INCOME STREAMS IN 2025",
+      "author": "Amra & Elma",
+      "publication": "Amra & Elma",
+      "date": "2025-01-01",
+      "recency_score": "high",
+      "authority_score": "medium",
+      "bias_score": "medium",
+      "status": "accepted",
+      "rejection_reason": null,
+      "excerpt": "The most successful creators earn money from 5-10 different sources, making them less dependent on any single revenue stream. Full-time creators have at least 6 different income streams, with 75% of creators emphasizing that you need multiple income streams for this career to be financially sustainable. TikTok creators can combine Creator Fund payments, LIVE gifts (averaging $50-200 per session), affiliate commissions through TikTok Shop (15-20% rates), and brand collaborations. Brand partnerships can reach $50,000-150,000 per sponsored post for top creators, with brand deals constituting 67% of creator income at this level.",
+      "key_claims": [
+        "Successful creators have 5-10 income sources",
+        "Full-time creators need minimum 6 streams",
+        "75% say multiple streams required for sustainability",
+        "TikTok LIVE gifts: $50-200/session average",
+        "TikTok Shop affiliate: 15-20% commissions",
+        "Top creator brand deals: $50K-$150K per post",
+        "Brand deals = 67% of income for top creators"
+      ]
+    },
+    {
+      "id": "src_029",
+      "search_vector_id": "sv_7",
+      "url": "https://graphy.com/blog/making-money-on-tiktok/",
+      "title": "Making Money On Tiktok: 17 Ultimate Strategies",
+      "author": "Graphy",
+      "publication": "Graphy",
+      "date": "2025-01-01",
+      "recency_score": "high",
+      "authority_score": "medium",
+      "bias_score": "medium",
+      "status": "accepted",
+      "rejection_reason": null,
+      "excerpt": "Course creation represents the highest-margin diversification strategy, with creators selling $200-2,000 courses to audiences built through free TikTok content. Cross-platform monetization multiplies TikTok's impact by directing traffic to YouTube for ad revenue, Instagram for sponsored posts, and email lists for direct marketing. Successful creators treat TikTok as a marketing channel for diversified income streams rather than relying solely on platform-based monetization, enabling sustainable six-figure incomes through multiple revenue streams.",
+      "key_claims": [
+        "Courses are highest-margin: $200-$2,000 price range",
+        "Cross-platform strategy multiplies earnings",
+        "Use TikTok as marketing channel, not sole revenue source",
+        "Multi-stream approach enables six-figure incomes"
+      ]
+    },
+    {
+      "id": "src_030",
+      "search_vector_id": "sv_8",
+      "url": "https://www.sprinklr.com/blog/social-media-plan/",
+      "title": "Social Media Planning: How to Create it (30/60/90 Days Plan)",
+      "author": "Sprinklr",
+      "publication": "Sprinklr",
+      "date": "2025-01-01",
+      "recency_score": "high",
+      "authority_score": "medium",
+      "bias_score": "medium",
+      "status": "accepted",
+      "rejection_reason": null,
+      "excerpt": "In the initial 30-day period, the focus is on laying the foundation including optimizing social media profiles, conducting audience research, starting a content calendar, and competitive analysis. In the final 30 days, the strategy shifts to doubling down on successful strategies and optimizing for conversions, with focus on actions that lead directly to conversions such as signing up for newsletters or making purchases. A 90-day timeline strikes the perfect balance between long-term vision and short-term adaptability.",
+      "key_claims": [
+        "Days 1-30: Foundation (profile optimization, audience research, content calendar)",
+        "Days 61-90: Conversion optimization",
+        "90 days balances vision with adaptability",
+        "Marketers with plans 60% more likely to succeed"
+      ]
+    },
+    {
+      "id": "src_031",
+      "search_vector_id": "sv_8",
+      "url": "https://planable.io/blog/social-media-plan/",
+      "title": "Social media plan: the 90-day roadmap, template & KPI guide",
+      "author": "Planable",
+      "publication": "Planable",
+      "date": "2025-01-01",
+      "recency_score": "high",
+      "authority_score": "medium",
+      "bias_score": "low",
+      "status": "accepted",
+      "rejection_reason": null,
+      "excerpt": "Marketers who proactively plan their content are 60% more likely to report content marketing success. Provides comprehensive templates and KPI frameworks for 90-day social media planning focused on measurable outcomes.",
+      "key_claims": [
+        "Proactive planning = 60% higher success rate",
+        "90-day framework allows for measurable KPIs",
+        "Templates available for structured planning"
+      ]
+    },
+    {
+      "id": "src_032",
+      "search_vector_id": "sv_8",
+      "url": "https://danlok.com/monetize-social-media-turn-your-following-into-top-clients/",
+      "title": "Monetize Social Media: Turn Your Following into Top Clients",
+      "author": "Dan Lok",
+      "publication": "Dan Lok",
+      "date": "2024-09-01",
+      "recency_score": "high",
+      "authority_score": "medium",
+      "bias_score": "high",
+      "status": "rejected",
+      "rejection_reason": "High commercial bias - course seller promoting own products",
+      "excerpt": "Digital workbooks like '90-Day Social Media Growth Planner' or 'Business Scale-Up Roadmap' and focused mini-courses such as 'Instagram Reels Mastery' or 'LinkedIn Personal Branding Blueprint'. Source appears to be primarily promotional for the author's own products and courses.",
+      "key_claims": []
+    },
+    {
+      "id": "src_033",
+      "search_vector_id": "sv_7",
+      "url": "https://stackinfluence.com/diversifying-your-income-as-an-influencer/",
+      "title": "Diversifying Your Income as an Influencer",
+      "author": "Stack Influence",
+      "publication": "Stack Influence",
+      "date": "2024-11-01",
+      "recency_score": "high",
+      "authority_score": "medium",
+      "bias_score": "low",
+      "status": "accepted",
+      "rejection_reason": null,
+      "excerpt": "Building multiple income streams protects you from algorithm changes or platform shifts, which is crucial in the volatile social media landscape. The most successful creators in 2025 are strategically stacking multiple monetization methods to build financial resilience and maximize earning potential. Advertising income grew by 15%, affiliate marketing by 9%, and merchandise sales by 4%, indicating diversification is essential.",
+      "key_claims": [
+        "Multiple streams protect against algorithm changes",
+        "Successful creators stack monetization methods",
+        "Ad income growth: 15%",
+        "Affiliate growth: 9%",
+        "Merchandise growth: 4%",
+        "Diversification is essential for resilience"
+      ]
+    },
+    {
+      "id": "src_034",
+      "search_vector_id": "sv_6",
+      "url": "https://www.iab.com/news/creator-economy-ad-spend-to-reach-37-billion-in-2025-growing-4x-faster-than-total-media-industry-according-to-iab/",
+      "title": "Creator Economy Ad Spend to Reach $37 Billion in 2025",
+      "author": "IAB (Interactive Advertising Bureau)",
+      "publication": "IAB",
+      "date": "2025-01-01",
+      "recency_score": "high",
+      "authority_score": "high",
+      "bias_score": "low",
+      "status": "accepted",
+      "rejection_reason": null,
+      "excerpt": "Creator economy ad spend more than doubled from $13.9B in 2021 to $29.5B in 2024, and is projected to reach $37 billion in 2025, growing 4x faster than total media industry. YouTube's total payout growth reached $3.23 billion in 2024, up from $2.34 billion in 2021. TikTok's Creator Rewards program enables creators to monetize videos over one minute long with at least 1,000 qualified views.",
+      "key_claims": [
+        "Creator ad spend: $37B in 2025 (growing 4x faster than media)",
+        "Ad spend doubled from $13.9B (2021) to $29.5B (2024)",
+        "YouTube payouts: $3.23B (2024), up from $2.34B (2021)",
+        "TikTok Creator Rewards: 1K+ views on 1min+ videos"
+      ]
+    },
+    {
+      "id": "src_035",
+      "search_vector_id": "sv_5",
+      "url": "https://www.creator-hero.com/blog/top-10-best-us-mental-health-influencer-affiliate-programs",
+      "title": "Top 10 Best US Mental Health Influencer Affiliate Programs",
+      "author": "Creator Hero",
+      "publication": "Creator Hero",
+      "date": "2025-01-01",
+      "recency_score": "high",
+      "authority_score": "medium",
+      "bias_score": "medium",
+      "status": "accepted",
+      "rejection_reason": null,
+      "excerpt": "In the health space, influencers monetize through various methods including online fitness courses, diet coaching, branded merchandise, subscription fees for exclusive content, and platform bonuses. Programs favor creators with engaged audiences and emphasize adherence to ethical standards, providing clear guidelines and monitoring affiliate content to maintain high ethical standards.",
+      "key_claims": [
+        "Mental health affiliate programs available",
+        "Programs emphasize ethical standards",
+        "Clear guidelines and content monitoring required",
+        "Engaged audiences prioritized over follower count"
+      ]
+    },
+    {
+      "id": "src_036",
+      "search_vector_id": "sv_5",
+      "url": "https://www.npr.org/2025/02/20/nx-s1-5277087/wellness-influencers-science-creators-maha-rfk-jr",
+      "title": "Bad wellness advice is all over social media. These creators are pushing back",
+      "author": "NPR",
+      "publication": "NPR",
+      "date": "2025-02-20",
+      "recency_score": "high",
+      "authority_score": "high",
+      "bias_score": "low",
+      "status": "accepted",
+      "rejection_reason": null,
+      "excerpt": "NPR coverage of the tension between wellness influencers promoting unverified advice and science-based creators pushing back. Highlights the importance of evidence-based information in the wellness space and the ethical responsibility of creators.",
+      "key_claims": [
+        "Misinformation problem in wellness content",
+        "Science-based creators providing counterbalance",
+        "Ethical responsibility for evidence-based information",
+        "Audience education is critical"
+      ]
+    },
+    {
+      "id": "src_037",
+      "search_vector_id": "sv_1",
+      "url": "https://www.socialchamp.com/blog/instagram-growth/",
+      "title": "15 Powerful Strategies for Instagram Growth in 2025",
+      "author": "SocialChamp",
+      "publication": "SocialChamp",
+      "date": "2025-01-01",
+      "recency_score": "high",
+      "authority_score": "medium",
+      "bias_score": "low",
+      "status": "accepted",
+      "rejection_reason": null,
+      "excerpt": "Comprehensive guide to Instagram growth strategies for 2025, including algorithm insights, content optimization, and engagement tactics specifically tailored for the current platform environment.",
+      "key_claims": [
+        "15 distinct growth strategies for 2025",
+        "Algorithm-optimized approach",
+        "Content and engagement tactics updated for current platform"
+      ]
+    },
+    {
+      "id": "src_038",
+      "search_vector_id": "sv_2",
+      "url": "https://later.com/blog/social-media-content-calendar/",
+      "title": "How to Plan a Social Media Content Calendar (2025 Edition)",
+      "author": "Later",
+      "publication": "Later",
+      "date": "2025-01-01",
+      "recency_score": "high",
+      "authority_score": "medium",
+      "bias_score": "medium",
+      "status": "accepted",
+      "rejection_reason": null,
+      "excerpt": "Later is a social media marketing platform that helps businesses, creators, and agencies manage social media strategies in one centralized location. Provides templates and tools for content calendar planning across multiple platforms.",
+      "key_claims": [
+        "Centralized content calendar improves efficiency",
+        "Templates available for multi-platform planning",
+        "Planning tools reduce posting inconsistency"
+      ]
+    }
+  ],
+  "search_gaps": [
+    {
+      "vector_id": "sv_8",
+      "issue": "No specific public data found for jennifer_popp2244 (Instagram) or zenjen82 (TikTok)",
+      "recommendation": "Provide general frameworks applicable to their follower tier and niche. User can apply self-assessment tools to their specific accounts."
+    }
+  ],
+  "summary": {
+    "total_found": 38,
+    "accepted": 37,
+    "rejected": 1,
+    "rejection_breakdown": {
+      "high_bias": 1,
+      "low_authority": 0,
+      "low_recency": 0
+    }
+  }
+}
