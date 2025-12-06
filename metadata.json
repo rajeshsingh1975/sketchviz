@@ -1,0 +1,19 @@
+{
+  "session_date": "2025-12-06",
+  "topic_full": "Social Media Monetization Strategy to $10K/Month",
+  "topic_short": "SMMonetization10K",
+  "filename_base": "SMMonetization10K-2025-12-06",
+  "created_at": "2025-12-06T00:00:00Z",
+  "workflow_version": "4.0",
+  "context": {
+    "platforms": ["Instagram", "TikTok"],
+    "accounts": {
+      "instagram": "jennifer_popp2244",
+      "tiktok": "zenjen82"
+    },
+    "follower_range": "5K-50K",
+    "content_niches": ["mental health", "physical fitness", "corporate life commentary"],
+    "goal": "$10,000/month revenue",
+    "timeline_focus": "2025 strategies"
+  }
+}

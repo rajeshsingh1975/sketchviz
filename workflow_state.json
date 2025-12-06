@@ -1,0 +1,108 @@
+{
+  "version": "4.0",
+  "workflow_type": "research_synthesis",
+  "topic": "Social Media Monetization Strategy to $10K/Month",
+  "topic_short": "SMMonetization10K",
+  "status": "in_progress",
+  "created_at": "2025-12-06T00:00:00Z",
+  "updated_at": "2025-12-06T00:00:00Z",
+  "current_phase": 1,
+  "current_agent": "A1",
+  "phases": {
+    "1": {
+      "status": "in_progress",
+      "agent": "A1+A2",
+      "started_at": "2025-12-06T00:00:00Z",
+      "completed_at": null,
+      "outputs": []
+    },
+    "2": {
+      "status": "pending",
+      "agent": "A4+A5",
+      "started_at": null,
+      "completed_at": null,
+      "outputs": []
+    },
+    "3": {
+      "status": "pending",
+      "agent": "A6+A7",
+      "started_at": null,
+      "completed_at": null,
+      "outputs": []
+    },
+    "4": {
+      "status": "pending",
+      "agent": "A8",
+      "started_at": null,
+      "completed_at": null,
+      "outputs": []
+    },
+    "5": {
+      "status": "pending",
+      "agent": "A10+A11",
+      "started_at": null,
+      "completed_at": null,
+      "outputs": []
+    },
+    "6": {
+      "status": "pending",
+      "agent": "A9+A12",
+      "started_at": null,
+      "completed_at": null,
+      "outputs": []
+    }
+  },
+  "gates": {
+    "gate_1": {
+      "status": "pending",
+      "decision": null,
+      "notes": "",
+      "timestamp": null
+    },
+    "gate_2": {
+      "status": "pending",
+      "decision": null,
+      "notes": "",
+      "timestamp": null
+    },
+    "gate_3": {
+      "status": "pending",
+      "decision": null,
+      "notes": "",
+      "timestamp": null
+    },
+    "gate_4": {
+      "status": "pending",
+      "decision": null,
+      "notes": "",
+      "timestamp": null
+    },
+    "gate_5": {
+      "status": "pending",
+      "decision": null,
+      "notes": "",
+      "timestamp": null
+    },
+    "gate_6": {
+      "status": "pending",
+      "decision": null,
+      "notes": "",
+      "timestamp": null
+    }
+  },
+  "checkpoints": {},
+  "errors": [],
+  "artifacts": {
+    "metadata": "metadata.json",
+    "task_plan": null,
+    "sources": null,
+    "data": null,
+    "validation": null,
+    "draft": null,
+    "tables": null,
+    "diagrams": null,
+    "report": null,
+    "audit": null,
+    "final_outputs": []
+  }
+}
