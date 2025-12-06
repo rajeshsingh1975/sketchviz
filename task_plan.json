@@ -1,0 +1,227 @@
+{
+  "research_questions": [
+    {
+      "id": "rq_1",
+      "question": "What specific audience growth tactics can scale jennifer_popp2244 (Instagram) and zenjen82 (TikTok) from current follower count to monetization-ready audience (50K+) within 90 days?",
+      "priority": "high",
+      "rationale": "User's top priority - growth is foundational to all monetization"
+    },
+    {
+      "id": "rq_2",
+      "question": "What content calendar structure and posting frequency will maximize engagement and algorithm favor for mental health/fitness/corporate life content on Instagram and TikTok in 2025?",
+      "priority": "high",
+      "rationale": "Second priority - content consistency drives growth and monetization"
+    },
+    {
+      "id": "rq_3",
+      "question": "How should Jennifer price coaching services, digital products, and sponsorships at her current follower tier to reach $10K/month revenue?",
+      "priority": "high",
+      "rationale": "Third priority - pricing strategy determines revenue velocity"
+    },
+    {
+      "id": "rq_4",
+      "question": "Which platform-specific monetization features (Instagram vs TikTok) are most lucrative for her follower range and content niche?",
+      "priority": "medium",
+      "rationale": "Fourth priority - platform selection impacts revenue streams"
+    },
+    {
+      "id": "rq_5",
+      "question": "What are ethical monetization boundaries for mental health content that preserve authenticity while generating revenue?",
+      "priority": "medium",
+      "rationale": "User explicitly wants to exclude authenticity-compromising strategies"
+    },
+    {
+      "id": "rq_6",
+      "question": "What proven revenue diversification models (historical + current) have successfully scaled wellness/fitness creators to $10K+/month?",
+      "priority": "medium",
+      "rationale": "Case studies inform realistic implementation timeline"
+    }
+  ],
+  "search_vectors": [
+    {
+      "id": "sv_1",
+      "keywords": ["Instagram growth strategy 2025", "TikTok follower growth tactics", "5K to 50K followers", "engagement rate optimization", "mental health influencer growth"],
+      "priority": "high",
+      "rationale": "Directly addresses RQ-1 (audience growth tactics). User's #1 priority.",
+      "expected_outputs": ["Growth tactics list", "Engagement optimization methods", "Cross-platform strategies", "Timeline benchmarks"]
+    },
+    {
+      "id": "sv_2",
+      "keywords": ["content calendar creator 2025", "Instagram Reels posting frequency", "TikTok content strategy", "mental health content schedule", "wellness creator content mix"],
+      "priority": "high",
+      "rationale": "Directly addresses RQ-2 (content calendar). User's #2 priority.",
+      "expected_outputs": ["Optimal posting frequencies", "Content mix ratios", "Platform-specific timing", "Content format strategies"]
+    },
+    {
+      "id": "sv_3",
+      "keywords": ["creator pricing guide 2025", "coaching services pricing", "digital product pricing wellness", "Instagram sponsorship rates 10K followers", "TikTok creator earnings calculator"],
+      "priority": "high",
+      "rationale": "Directly addresses RQ-3 (pricing models). User's #3 priority.",
+      "expected_outputs": ["Pricing formulas", "Sponsorship rate benchmarks", "Service pricing tiers", "Revenue calculators"]
+    },
+    {
+      "id": "sv_4",
+      "keywords": ["Instagram vs TikTok monetization 2025", "TikTok Shop creator earnings", "Instagram Reels monetization", "Creator Fund rates", "platform monetization comparison"],
+      "priority": "medium",
+      "rationale": "Directly addresses RQ-4 (platform-specific strategies). User's #4 priority.",
+      "expected_outputs": ["Platform revenue comparison", "Feature-specific monetization", "Algorithm insights", "Platform prioritization guidance"]
+    },
+    {
+      "id": "sv_5",
+      "keywords": ["mental health influencer ethics", "authentic wellness creator monetization", "mental health content boundaries", "ethical sponsorships mental health", "therapist influencer guidelines"],
+      "priority": "high",
+      "rationale": "Critical for RQ-5. User explicitly wants ethical boundaries respected.",
+      "expected_outputs": ["Ethical guidelines", "Red flags to avoid", "Authentic monetization methods", "Professional boundary best practices"]
+    },
+    {
+      "id": "sv_6",
+      "keywords": ["fitness creator case study earnings", "wellness influencer $10K month", "mental health creator revenue breakdown", "creator success stories 2024 2025", "monetization timeline benchmarks"],
+      "priority": "medium",
+      "rationale": "Addresses RQ-6 (case studies). Provides realistic models and timelines.",
+      "expected_outputs": ["Real creator case studies", "Revenue breakdowns", "Timeline to $10K benchmarks", "Success patterns"]
+    },
+    {
+      "id": "sv_7",
+      "keywords": ["Instagram creator monetization", "TikTok creator monetization", "creator revenue streams 2025", "digital products for wellness creators", "affiliate marketing fitness"],
+      "priority": "medium",
+      "rationale": "Comprehensive revenue stream analysis to inform diversification strategy.",
+      "expected_outputs": ["Revenue stream options", "Income diversification models", "Passive income strategies", "Active vs passive revenue mix"]
+    },
+    {
+      "id": "sv_8",
+      "keywords": ["jennifer_popp2244 Instagram", "zenjen82 TikTok", "mental health fitness creator", "corporate wellness influencer"],
+      "priority": "medium",
+      "rationale": "Account-specific research to analyze current content and provide personalized recommendations.",
+      "expected_outputs": ["Current content analysis", "Engagement metrics", "Content gaps", "Audience demographics"]
+    }
+  ],
+  "expected_data_types": {
+    "numerical": [
+      "Follower count benchmarks for monetization readiness",
+      "Posting frequency recommendations (posts/week)",
+      "Engagement rate targets (percentage)",
+      "Sponsorship rate ranges by follower tier",
+      "Coaching/consulting service pricing",
+      "Digital product price points",
+      "Revenue timeline milestones",
+      "Platform earnings (Creator Fund, bonuses)",
+      "Affiliate commission percentages"
+    ],
+    "qualitative": [
+      "Content format recommendations (Reels, Stories, carousels, TikTok videos)",
+      "Platform algorithm preferences and best practices",
+      "Ethical monetization boundaries for mental health content",
+      "Content calendar structure and themes",
+      "Audience growth tactics and strategies",
+      "Revenue diversification approaches",
+      "Brand partnership guidelines",
+      "Authentic voice preservation strategies"
+    ],
+    "comparative": [
+      "Instagram vs TikTok monetization potential at 5K-50K follower tier",
+      "Active vs passive revenue streams",
+      "Organic growth vs paid promotion ROI",
+      "Content format performance (Reels vs static posts vs Stories)",
+      "Revenue timeline: Quick wins vs long-term strategies"
+    ],
+    "account_specific": [
+      "Current engagement rates for jennifer_popp2244 and zenjen82",
+      "Existing content themes and performance",
+      "Audience demographics and psychographics",
+      "Content gaps and opportunities"
+    ]
+  },
+  "planned_visualizations": {
+    "tables": [
+      {
+        "id": "tbl_revenue_streams",
+        "title": "Revenue Stream Comparison: Effort vs Income Potential",
+        "data_source": "comparative",
+        "description": "Compare different monetization methods (sponsorships, coaching, digital products, affiliates, ads) by effort level, income potential, and timeline to revenue"
+      },
+      {
+        "id": "tbl_pricing_guide",
+        "title": "Pricing Guide by Follower Tier and Service Type",
+        "data_source": "numerical",
+        "description": "Pricing benchmarks for coaching sessions, digital products, and sponsorship rates at 5K, 10K, 25K, and 50K follower tiers"
+      },
+      {
+        "id": "tbl_content_calendar",
+        "title": "90-Day Content Calendar Template",
+        "data_source": "qualitative",
+        "description": "Weekly posting schedule showing content types, themes, posting times, and platform allocation"
+      },
+      {
+        "id": "tbl_platform_comparison",
+        "title": "Instagram vs TikTok Monetization Features",
+        "data_source": "comparative",
+        "description": "Side-by-side comparison of monetization features, earning potential, and best practices for each platform"
+      },
+      {
+        "id": "tbl_case_studies",
+        "title": "Creator Success Case Studies: Path to $10K/Month",
+        "data_source": "case studies",
+        "description": "Real examples of wellness/mental health creators with revenue breakdowns, timelines, and key strategies"
+      }
+    ],
+    "diagrams": [
+      {
+        "id": "diag_revenue_roadmap",
+        "title": "90-Day Revenue Roadmap: $0 to $10K/Month",
+        "type": "flowchart",
+        "description": "Visual timeline showing milestones, action items, and revenue targets for each 30-day phase"
+      },
+      {
+        "id": "diag_content_ecosystem",
+        "title": "Content Ecosystem & Revenue Flow",
+        "type": "flowchart",
+        "description": "How different content types (free educational, lead magnets, paid offers) flow to create revenue streams"
+      },
+      {
+        "id": "diag_growth_funnel",
+        "title": "Audience Growth to Monetization Funnel",
+        "type": "flowchart",
+        "description": "Path from follower acquisition → engagement → trust → monetization with conversion rate benchmarks"
+      }
+    ]
+  },
+  "complexity_assessment": {
+    "level": "high",
+    "estimated_sources": 35,
+    "estimated_data_points": 80,
+    "rationale": "High complexity due to: (1) Account-specific personalization requirement, (2) Multi-platform analysis, (3) Ethical considerations requiring nuanced research, (4) Need for both current 2025 data AND proven historical strategies, (5) Comprehensive coverage of 8 search vectors across growth, content, pricing, and implementation"
+  },
+  "risks": [
+    {
+      "type": "data_availability",
+      "description": "Specific account data for jennifer_popp2244 and zenjen82 may not be publicly available without direct access",
+      "mitigation": "Focus on general strategies for similar follower tiers and content niches, provide framework for self-analysis"
+    },
+    {
+      "type": "recency",
+      "description": "2025 is current year; cutting-edge platform features may have limited documentation",
+      "mitigation": "Combine latest 2025 data with proven 2024 strategies, clearly label data vintage"
+    },
+    {
+      "type": "bias",
+      "description": "Many creator monetization sources are from course sellers with incentive to inflate earnings potential",
+      "mitigation": "Prioritize third-party research, platform official data, and verified case studies; flag promotional sources"
+    },
+    {
+      "type": "ethical_boundaries",
+      "description": "Mental health content monetization has professional ethics considerations that may conflict with maximum revenue strategies",
+      "mitigation": "User explicitly requested excluding authenticity-compromising strategies; will filter accordingly and provide ethical framework"
+    },
+    {
+      "type": "personalization_limits",
+      "description": "Without direct account access or analytics, recommendations will be partially generic",
+      "mitigation": "Provide decision frameworks and self-assessment tools so Jennifer can customize to her specific situation"
+    }
+  ],
+  "special_considerations": {
+    "account_analysis_approach": "Will attempt to research public data for jennifer_popp2244 (Instagram) and zenjen82 (TikTok) but may have limited visibility. Will provide general frameworks applicable to her follower tier and niche.",
+    "ethical_filter": "User selected Option B: Exclude strategies that might compromise authenticity. Will actively filter out manipulative tactics, misleading mental health claims, and overly promotional approaches.",
+    "deliverable_format": "Personal implementation roadmap - focus on actionable steps, clear timelines, specific tactics Jennifer can execute immediately.",
+    "data_vintage_strategy": "User selected Option C: Include proven historical strategies. Will prioritize 2024-2025 data but include validated evergreen tactics from earlier years if still relevant."
+  }
+}
