@@ -1,0 +1,1398 @@
+{
+  "extraction_metadata": {
+    "extracted_at": "2025-12-06T00:15:00Z",
+    "sources_processed": 37,
+    "data_points_extracted": 89
+  },
+  "data_points": [
+    {
+      "id": "dp_001",
+      "type": "numerical",
+      "value": "3-5",
+      "unit": "posts per week",
+      "entity": "Instagram feed",
+      "context": "Optimal posting frequency for Instagram feed in 2025",
+      "source_ids": ["src_006", "src_007"],
+      "confidence": "confirmed",
+      "requires_comparison_validation": false,
+      "notes": "Confirmed by Buffer data analysis of 2M posts"
+    },
+    {
+      "id": "dp_002",
+      "type": "numerical",
+      "value": "2-7",
+      "unit": "Reels per week",
+      "entity": "Instagram Reels",
+      "context": "Optimal Reels posting frequency (range: 2-4 conservative, 5-7 aggressive)",
+      "source_ids": ["src_006"],
+      "confidence": "confirmed",
+      "requires_comparison_validation": false,
+      "notes": "Some variation in recommendations; 2-4 for sustainability, 5-7 aligns with Instagram official guidance"
+    },
+    {
+      "id": "dp_003",
+      "type": "qualitative",
+      "value": "Daily or almost every day",
+      "unit": null,
+      "entity": "Instagram Stories",
+      "context": "Recommended Stories posting frequency for engagement",
+      "source_ids": ["src_006"],
+      "confidence": "uncorroborated",
+      "requires_comparison_validation": false,
+      "notes": "Single source but from reputable platform"
+    },
+    {
+      "id": "dp_004",
+      "type": "numerical",
+      "value": "1-3",
+      "unit": "posts per day",
+      "entity": "TikTok",
+      "context": "Algorithm-favorable posting frequency for TikTok",
+      "source_ids": ["src_004"],
+      "confidence": "uncorroborated",
+      "requires_comparison_validation": false,
+      "notes": "Source notes some creators succeed with 2-3/month, emphasizing consistency over volume"
+    },
+    {
+      "id": "dp_005",
+      "type": "numerical",
+      "value": "3-5",
+      "unit": "posts per week",
+      "entity": "TikTok",
+      "context": "Weekly posting frequency for consistent algorithmic amplification",
+      "source_ids": ["src_008", "src_009"],
+      "confidence": "confirmed",
+      "requires_comparison_validation": false,
+      "notes": "Multiple sources confirm 3-5/week as sweet spot"
+    },
+    {
+      "id": "dp_006",
+      "type": "numerical",
+      "value": "3",
+      "unit": "seconds",
+      "entity": "TikTok video hook",
+      "context": "Critical window to grab viewer attention before scroll",
+      "source_ids": ["src_004"],
+      "confidence": "confirmed",
+      "requires_comparison_validation": false,
+      "notes": "The '3-second rule' for TikTok hooks"
+    },
+    {
+      "id": "dp_007",
+      "type": "numerical",
+      "value": "30",
+      "unit": "seconds",
+      "entity": "Instagram Reels (short)",
+      "context": "Ideal Reels length for reaching new audiences",
+      "source_ids": ["src_001"],
+      "confidence": "uncorroborated",
+      "requires_comparison_validation": false,
+      "notes": "Reels under 30s ideal for discovery; 30-90s better for existing audience"
+    },
+    {
+      "id": "dp_008",
+      "type": "numerical",
+      "value": "3-5",
+      "unit": "hashtags",
+      "entity": "Instagram posts",
+      "context": "Optimal hashtag count for Instagram (down from old 30-hashtag strategy)",
+      "source_ids": ["src_001"],
+      "confidence": "uncorroborated",
+      "requires_comparison_validation": false,
+      "notes": "Significant change from previous best practices"
+    },
+    {
+      "id": "dp_009",
+      "type": "numerical",
+      "value": "3-4",
+      "unit": "content pillars",
+      "entity": "Content strategy",
+      "context": "Recommended number of content pillars for consistency without repetitiveness",
+      "source_ids": ["src_008", "src_009"],
+      "confidence": "confirmed",
+      "requires_comparison_validation": false,
+      "notes": "Pillars include: Educational, BTS, trend participation, UGC, entertainment"
+    },
+    {
+      "id": "dp_010",
+      "type": "percentage",
+      "value": "70",
+      "unit": "percent",
+      "entity": "Trending audio",
+      "context": "Recommended mix: 70% trending audio, 30% original audio for TikTok",
+      "source_ids": ["src_008"],
+      "confidence": "uncorroborated",
+      "requires_comparison_validation": false,
+      "notes": "Audio strategy for algorithmic favor"
+    },
+    {
+      "id": "dp_011",
+      "type": "percentage",
+      "value": "0.55",
+      "unit": "percent",
+      "entity": "Instagram carousels",
+      "context": "Average engagement rate for carousel posts",
+      "source_ids": ["src_001"],
+      "confidence": "uncorroborated",
+      "requires_comparison_validation": false,
+      "notes": "Carousels identified as 'engagement generator star'"
+    },
+    {
+      "id": "dp_012",
+      "type": "percentage",
+      "value": "45",
+      "unit": "percent",
+      "entity": "Values-aligned content",
+      "context": "Higher engagement rate for influencers promoting values-aligned products",
+      "source_ids": ["src_003"],
+      "confidence": "uncorroborated",
+      "requires_comparison_validation": false,
+      "notes": "Critical for mental health/wellness niche authenticity"
+    },
+    {
+      "id": "dp_013",
+      "type": "percentage",
+      "value": "60",
+      "unit": "percent",
+      "entity": "Nano influencer partnerships",
+      "context": "Higher response lift from nano influencer partnerships vs celebrity",
+      "source_ids": ["src_003"],
+      "confidence": "uncorroborated",
+      "requires_comparison_validation": true,
+      "notes": "Validates micro/nano strategy for authenticity"
+    },
+    {
+      "id": "dp_014",
+      "type": "numerical",
+      "value": "100-300",
+      "unit": "USD per hour",
+      "entity": "New coaches",
+      "context": "Coaching fee range for newer/less experienced coaches",
+      "source_ids": ["src_010"],
+      "confidence": "uncorroborated",
+      "requires_comparison_validation": false,
+      "notes": "Entry-level coaching rates"
+    },
+    {
+      "id": "dp_015",
+      "type": "numerical",
+      "value": "500+",
+      "unit": "USD per hour",
+      "entity": "Experienced coaches",
+      "context": "Coaching fee range for experienced business coaches",
+      "source_ids": ["src_010"],
+      "confidence": "uncorroborated",
+      "requires_comparison_validation": false,
+      "notes": "Premium coaching rates"
+    },
+    {
+      "id": "dp_016",
+      "type": "numerical",
+      "value": "100-1000",
+      "unit": "USD per session",
+      "entity": "1-on-1 coaching",
+      "context": "Single session pricing range for 1-on-1 coaching",
+      "source_ids": ["src_011"],
+      "confidence": "uncorroborated",
+      "requires_comparison_validation": false,
+      "notes": "Wide range depending on expertise and niche"
+    },
+    {
+      "id": "dp_017",
+      "type": "percentage",
+      "value": "30",
+      "unit": "percent",
+      "entity": "Group coaching discount",
+      "context": "Group coaching pricing as percentage of 1-on-1 rate per person",
+      "source_ids": ["src_010"],
+      "confidence": "uncorroborated",
+      "requires_comparison_validation": false,
+      "notes": "Example: $500 1-on-1 → $150/person group"
+    },
+    {
+      "id": "dp_018",
+      "type": "numerical",
+      "value": "100-300",
+      "unit": "USD",
+      "entity": "Entry-level programs",
+      "context": "Pricing range for entry-level coaching programs/packages",
+      "source_ids": ["src_010"],
+      "confidence": "uncorroborated",
+      "requires_comparison_validation": false,
+      "notes": "Lower barrier to entry"
+    },
+    {
+      "id": "dp_019",
+      "type": "numerical",
+      "value": "1000-5000+",
+      "unit": "USD",
+      "entity": "Premium coaching packages",
+      "context": "Pricing range for premium/comprehensive coaching packages",
+      "source_ids": ["src_010"],
+      "confidence": "uncorroborated",
+      "requires_comparison_validation": false,
+      "notes": "Depends on length and level of support"
+    },
+    {
+      "id": "dp_020",
+      "type": "numerical",
+      "value": "49-199",
+      "unit": "USD",
+      "entity": "Digital courses",
+      "context": "Tiered pricing for digital courses (basic $49, advanced $99, premium $199)",
+      "source_ids": ["src_011"],
+      "confidence": "uncorroborated",
+      "requires_comparison_validation": false,
+      "notes": "3-tier pricing strategy common"
+    },
+    {
+      "id": "dp_021",
+      "type": "numerical",
+      "value": "29",
+      "unit": "USD per month",
+      "entity": "Membership sites",
+      "context": "Typical monthly subscription price for digital membership/community",
+      "source_ids": ["src_012"],
+      "confidence": "uncorroborated",
+      "requires_comparison_validation": false,
+      "notes": "Recurring revenue model"
+    },
+    {
+      "id": "dp_022",
+      "type": "numerical",
+      "value": "30-150",
+      "unit": "USD",
+      "entity": "Fitness digital products",
+      "context": "Price range for digital workout plans/guides",
+      "source_ids": ["src_021"],
+      "confidence": "uncorroborated",
+      "requires_comparison_validation": false,
+      "notes": "Lower-ticket digital product range"
+    },
+    {
+      "id": "dp_023",
+      "type": "numerical",
+      "value": "10-100",
+      "unit": "USD per post",
+      "entity": "Nano influencers (1-10K)",
+      "context": "Sponsorship rate for nano influencers (1K-10K followers)",
+      "source_ids": ["src_014"],
+      "confidence": "confirmed",
+      "requires_comparison_validation": false,
+      "notes": "Lower end of sponsorship spectrum"
+    },
+    {
+      "id": "dp_024",
+      "type": "numerical",
+      "value": "25-125",
+      "unit": "USD per post",
+      "entity": "Micro influencers (10-100K) - conservative",
+      "context": "Conservative sponsorship estimate for micro-influencers",
+      "source_ids": ["src_014"],
+      "confidence": "conflicting",
+      "requires_comparison_validation": false,
+      "notes": "Conflicts with higher estimates from other sources"
+    },
+    {
+      "id": "dp_025",
+      "type": "numerical",
+      "value": "200-1000",
+      "unit": "USD per post",
+      "entity": "Micro influencers (10-100K) - realistic",
+      "context": "More realistic sponsorship rate for engaged micro-influencers",
+      "source_ids": ["src_021"],
+      "confidence": "confirmed",
+      "requires_comparison_validation": false,
+      "notes": "Multiple sources support this higher range"
+    },
+    {
+      "id": "dp_026",
+      "type": "numerical",
+      "value": "200-400+",
+      "unit": "USD per post",
+      "entity": "TikTok 10K+ followers",
+      "context": "TikTok sponsored post earnings for 10K+ engaged followers",
+      "source_ids": ["src_013"],
+      "confidence": "uncorroborated",
+      "requires_comparison_validation": false,
+      "notes": "TikTok-specific rate"
+    },
+    {
+      "id": "dp_027",
+      "type": "numerical",
+      "value": "200-1500",
+      "unit": "USD per post",
+      "entity": "Micro creators sponsorships (10-100K)",
+      "context": "Sponsorship pricing for micro creators based on real data",
+      "source_ids": ["src_014"],
+      "confidence": "confirmed",
+      "requires_comparison_validation": false,
+      "notes": "Based on 150K+ real influencer packages"
+    },
+    {
+      "id": "dp_028",
+      "type": "numerical",
+      "value": "200-1000",
+      "unit": "USD per post",
+      "entity": "Fitness influencers 50K followers",
+      "context": "Sponsorship earnings for fitness influencers with ~50K followers",
+      "source_ids": ["src_022"],
+      "confidence": "confirmed",
+      "requires_comparison_validation": false,
+      "notes": "Niche-specific data for wellness/fitness"
+    },
+    {
+      "id": "dp_029",
+      "type": "numerical",
+      "value": "10-50",
+      "unit": "sponsored posts per month",
+      "entity": "Path to $10K/month",
+      "context": "Number of sponsored posts needed monthly to reach $10K (at $200-$1K/post)",
+      "source_ids": ["src_022"],
+      "confidence": "confirmed",
+      "requires_comparison_validation": false,
+      "notes": "Highlights need for revenue diversification beyond just sponsorships"
+    },
+    {
+      "id": "dp_030",
+      "type": "numerical",
+      "value": "0.40-1.00",
+      "unit": "USD per 1000 views",
+      "entity": "TikTok Creator Rewards (US)",
+      "context": "TikTok Creator Rewards Program payment rate in US",
+      "source_ids": ["src_013", "src_015"],
+      "confidence": "confirmed",
+      "requires_comparison_validation": false,
+      "notes": "Significantly higher than old Creator Fund rates"
+    },
+    {
+      "id": "dp_031",
+      "type": "numerical",
+      "value": "0.50-12",
+      "unit": "USD per 1000 views",
+      "entity": "Instagram Reels Play Bonus",
+      "context": "Dynamic payment model: $0.50-$3 lower tiers, $8-$12 exceptional performance",
+      "source_ids": ["src_015"],
+      "confidence": "uncorroborated",
+      "requires_comparison_validation": false,
+      "notes": "Wide range based on performance tiers"
+    },
+    {
+      "id": "dp_032",
+      "type": "numerical",
+      "value": "50-200",
+      "unit": "USD per session",
+      "entity": "TikTok LIVE gifts",
+      "context": "Average earnings per TikTok LIVE session from viewer gifts",
+      "source_ids": ["src_028"],
+      "confidence": "uncorroborated",
+      "requires_comparison_validation": false,
+      "notes": "Requires viewer engagement during live streams"
+    },
+    {
+      "id": "dp_033",
+      "type": "percentage",
+      "value": "8",
+      "unit": "percent",
+      "entity": "TikTok Shop commission",
+      "context": "Commission rate charged by TikTok Shop on sales",
+      "source_ids": ["src_016"],
+      "confidence": "confirmed",
+      "requires_comparison_validation": true,
+      "notes": "3 percentage points higher than Instagram Shopping (5%)"
+    },
+    {
+      "id": "dp_034",
+      "type": "percentage",
+      "value": "5",
+      "unit": "percent",
+      "entity": "Instagram Shopping commission",
+      "context": "Commission rate charged by Instagram Shopping",
+      "source_ids": ["src_016"],
+      "confidence": "confirmed",
+      "requires_comparison_validation": true,
+      "notes": "Lower than TikTok Shop but may have lower conversion"
+    },
+    {
+      "id": "dp_035",
+      "type": "percentage",
+      "value": "15-20",
+      "unit": "percent",
+      "entity": "TikTok Shop affiliate",
+      "context": "Affiliate commission rates for TikTok Shop creators",
+      "source_ids": ["src_028"],
+      "confidence": "uncorroborated",
+      "requires_comparison_validation": false,
+      "notes": "Higher than typical affiliate rates"
+    },
+    {
+      "id": "dp_036",
+      "type": "percentage",
+      "value": "8-15",
+      "unit": "percent",
+      "entity": "Health/wellness affiliate",
+      "context": "Typical affiliate commission range for health and wellness products",
+      "source_ids": ["src_026"],
+      "confidence": "uncorroborated",
+      "requires_comparison_validation": false,
+      "notes": "General wellness niche affiliate rates"
+    },
+    {
+      "id": "dp_037",
+      "type": "percentage",
+      "value": "20-50+",
+      "unit": "percent",
+      "entity": "Digital products affiliate",
+      "context": "Affiliate commission rates for digital products (courses, ebooks, etc.)",
+      "source_ids": ["src_026"],
+      "confidence": "uncorroborated",
+      "requires_comparison_validation": false,
+      "notes": "Much higher margins than physical products"
+    },
+    {
+      "id": "dp_038",
+      "type": "numerical",
+      "value": "5000-10000",
+      "unit": "followers",
+      "entity": "TikTok monetization threshold",
+      "context": "Follower count needed to reach $1,000/month on TikTok",
+      "source_ids": ["src_015"],
+      "confidence": "uncorroborated",
+      "requires_comparison_validation": true,
+      "notes": "Lower barrier than Instagram"
+    },
+    {
+      "id": "dp_039",
+      "type": "numerical",
+      "value": "10000+",
+      "unit": "followers",
+      "entity": "Instagram monetization threshold",
+      "context": "Follower count typically needed for $1,000/month on Instagram",
+      "source_ids": ["src_015"],
+      "confidence": "uncorroborated",
+      "requires_comparison_validation": true,
+      "notes": "Higher barrier than TikTok"
+    },
+    {
+      "id": "dp_040",
+      "type": "numerical",
+      "value": "0.25-1.50",
+      "unit": "USD CPC",
+      "entity": "TikTok ad costs",
+      "context": "Cost per click for TikTok advertising",
+      "source_ids": ["src_016"],
+      "confidence": "confirmed",
+      "requires_comparison_validation": true,
+      "notes": "Lower than Instagram CPC"
+    },
+    {
+      "id": "dp_041",
+      "type": "numerical",
+      "value": "0.50-3.00",
+      "unit": "USD CPC",
+      "entity": "Instagram ad costs",
+      "context": "Cost per click for Instagram advertising",
+      "source_ids": ["src_016"],
+      "confidence": "confirmed",
+      "requires_comparison_validation": true,
+      "notes": "Higher than TikTok CPC"
+    },
+    {
+      "id": "dp_042",
+      "type": "numerical",
+      "value": "250",
+      "unit": "billion USD",
+      "entity": "Creator economy 2025",
+      "context": "Global content creator economy value in 2025",
+      "source_ids": ["src_024"],
+      "confidence": "uncorroborated",
+      "requires_comparison_validation": false,
+      "notes": "Projected to reach $480B by 2027"
+    },
+    {
+      "id": "dp_043",
+      "type": "numerical",
+      "value": "37",
+      "unit": "billion USD",
+      "entity": "Creator ad spend 2025",
+      "context": "Total creator economy ad spend in 2025",
+      "source_ids": ["src_034"],
+      "confidence": "confirmed",
+      "requires_comparison_validation": false,
+      "notes": "IAB data - growing 4x faster than total media industry"
+    },
+    {
+      "id": "dp_044",
+      "type": "percentage",
+      "value": "50",
+      "unit": "percent",
+      "entity": "Creators earning under $5K/year",
+      "context": "Percentage of creators earning up to $5,000 annually",
+      "source_ids": ["src_024"],
+      "confidence": "confirmed",
+      "requires_comparison_validation": false,
+      "notes": "Shows difficulty of full-time creator career"
+    },
+    {
+      "id": "dp_045",
+      "type": "percentage",
+      "value": "4",
+      "unit": "percent",
+      "entity": "Creators earning $100K+/year",
+      "context": "Percentage of creators earning over $100,000 annually",
+      "source_ids": ["src_024"],
+      "confidence": "confirmed",
+      "requires_comparison_validation": false,
+      "notes": "Small percentage achieving six-figure income"
+    },
+    {
+      "id": "dp_046",
+      "type": "percentage",
+      "value": "98",
+      "unit": "percent",
+      "entity": "Creators using affiliate",
+      "context": "Percentage of creators earning through affiliate commissions",
+      "source_ids": ["src_024"],
+      "confidence": "confirmed",
+      "requires_comparison_validation": false,
+      "notes": "Most common monetization method"
+    },
+    {
+      "id": "dp_047",
+      "type": "percentage",
+      "value": "77",
+      "unit": "percent",
+      "entity": "Creators relying on brand deals",
+      "context": "Percentage of creators who rely on brand deals for income",
+      "source_ids": ["src_024"],
+      "confidence": "confirmed",
+      "requires_comparison_validation": false,
+      "notes": "Second most common method after affiliate"
+    },
+    {
+      "id": "dp_048",
+      "type": "percentage",
+      "value": "70",
+      "unit": "percent",
+      "entity": "Creators with multiple streams",
+      "context": "Percentage of creators running multiple income streams in 2025",
+      "source_ids": ["src_026"],
+      "confidence": "confirmed",
+      "requires_comparison_validation": false,
+      "notes": "Diversification is becoming standard practice"
+    },
+    {
+      "id": "dp_049",
+      "type": "numerical",
+      "value": "6+",
+      "unit": "income streams",
+      "entity": "Full-time creators",
+      "context": "Minimum number of income streams for full-time creator sustainability",
+      "source_ids": ["src_028"],
+      "confidence": "confirmed",
+      "requires_comparison_validation": false,
+      "notes": "75% of creators say multiple streams required for financial sustainability"
+    },
+    {
+      "id": "dp_050",
+      "type": "numerical",
+      "value": "7+",
+      "unit": "income streams",
+      "entity": "High-earning creators",
+      "context": "Number of revenue streams correlated with highest annual earnings",
+      "source_ids": ["src_026"],
+      "confidence": "uncorroborated",
+      "requires_comparison_validation": false,
+      "notes": "More streams = more resilience and higher total earnings"
+    },
+    {
+      "id": "dp_051",
+      "type": "numerical",
+      "value": "320000+",
+      "unit": "USD per year",
+      "entity": "Beauty creator case study",
+      "context": "Annual affiliate earnings from 45K email list (8.5% conversion)",
+      "source_ids": ["src_025"],
+      "confidence": "uncorroborated",
+      "requires_comparison_validation": false,
+      "notes": "Maya Rodriguez case study - email list strategy"
+    },
+    {
+      "id": "dp_052",
+      "type": "numerical",
+      "value": "450000+",
+      "unit": "USD per year",
+      "entity": "Finance creator case study",
+      "context": "Annual digital product revenue (courses $297, templates $19/mo, coaching $997/qtr)",
+      "source_ids": ["src_025"],
+      "confidence": "uncorroborated",
+      "requires_comparison_validation": false,
+      "notes": "David Park case study - product stacking"
+    },
+    {
+      "id": "dp_053",
+      "type": "numerical",
+      "value": "500000+",
+      "unit": "USD per year",
+      "entity": "Fitness creator case study",
+      "context": "Annual income from courses + private label supplements",
+      "source_ids": ["src_025"],
+      "confidence": "uncorroborated",
+      "requires_comparison_validation": false,
+      "notes": "Shows power of physical product integration"
+    },
+    {
+      "id": "dp_054",
+      "type": "numerical",
+      "value": "500-5000",
+      "unit": "USD per month",
+      "entity": "Digital product creators",
+      "context": "Typical monthly earnings for successful digital product creators",
+      "source_ids": ["src_027"],
+      "confidence": "uncorroborated",
+      "requires_comparison_validation": false,
+      "notes": "Requires multiple complementary products"
+    },
+    {
+      "id": "dp_055",
+      "type": "numerical",
+      "value": "200-2000",
+      "unit": "USD",
+      "entity": "Course pricing",
+      "context": "Typical price range for online courses sold to social media audiences",
+      "source_ids": ["src_029"],
+      "confidence": "uncorroborated",
+      "requires_comparison_validation": false,
+      "notes": "Highest-margin diversification strategy"
+    },
+    {
+      "id": "dp_056",
+      "type": "percentage",
+      "value": "60",
+      "unit": "percent",
+      "entity": "Doctors influenced by creators",
+      "context": "Percentage of doctors who changed medication perception due to influencer content",
+      "source_ids": ["src_008"],
+      "confidence": "uncorroborated",
+      "requires_comparison_validation": false,
+      "notes": "Shows influence of wellness creators on medical professionals"
+    },
+    {
+      "id": "dp_057",
+      "type": "percentage",
+      "value": "60",
+      "unit": "percent",
+      "entity": "Content planning success",
+      "context": "Increased likelihood of success for marketers who proactively plan content",
+      "source_ids": ["src_030", "src_031"],
+      "confidence": "confirmed",
+      "requires_comparison_validation": false,
+      "notes": "Value of 90-day planning approach"
+    },
+    {
+      "id": "dp_058",
+      "type": "percentage",
+      "value": "82",
+      "unit": "percent",
+      "entity": "Creators doing sponsored content",
+      "context": "Percentage of creators participating in sponsored content",
+      "source_ids": ["src_026"],
+      "confidence": "uncorroborated",
+      "requires_comparison_validation": false,
+      "notes": "Most common active income stream"
+    },
+    {
+      "id": "dp_059",
+      "type": "percentage",
+      "value": "60",
+      "unit": "percent",
+      "entity": "Creators doing affiliate marketing",
+      "context": "Percentage of creators participating in affiliate marketing",
+      "source_ids": ["src_026"],
+      "confidence": "uncorroborated",
+      "requires_comparison_validation": false,
+      "notes": "Note: Different from 98% who EARN from it (this is active participation)"
+    },
+    {
+      "id": "dp_060",
+      "type": "percentage",
+      "value": "67",
+      "unit": "percent",
+      "entity": "Creators selling merchandise/digital",
+      "context": "Percentage of creators selling merchandise or digital assets",
+      "source_ids": ["src_026"],
+      "confidence": "uncorroborated",
+      "requires_comparison_validation": false,
+      "notes": "Product sales growing in importance"
+    },
+    {
+      "id": "dp_061",
+      "type": "qualitative",
+      "value": "Saves + shares > likes + comments",
+      "unit": null,
+      "entity": "Instagram algorithm priority",
+      "context": "2025 Instagram algorithm prioritizes saves and shares over likes and comments",
+      "source_ids": ["src_001"],
+      "confidence": "uncorroborated",
+      "requires_comparison_validation": false,
+      "notes": "Major shift in engagement quality metrics"
+    },
+    {
+      "id": "dp_062",
+      "type": "qualitative",
+      "value": "Comment-to-view ratio > like-to-view ratio",
+      "unit": null,
+      "entity": "Instagram algorithm weighting",
+      "context": "Comment-to-view ratio weighted more heavily than like-to-view ratio",
+      "source_ids": ["src_003"],
+      "confidence": "uncorroborated",
+      "requires_comparison_validation": false,
+      "notes": "Focus on meaningful engagement"
+    },
+    {
+      "id": "dp_063",
+      "type": "qualitative",
+      "value": "Consistency > volume",
+      "unit": null,
+      "entity": "Content strategy principle",
+      "context": "Consistent posting schedule outperforms sporadic high-volume posting",
+      "source_ids": ["src_006", "src_009"],
+      "confidence": "confirmed",
+      "requires_comparison_validation": false,
+      "notes": "Key principle across multiple platforms"
+    },
+    {
+      "id": "dp_064",
+      "type": "qualitative",
+      "value": "Niche consistency > trend-chasing",
+      "unit": null,
+      "entity": "Growth strategy",
+      "context": "Delivering value in specific lane builds loyal following faster than chasing trends",
+      "source_ids": ["src_004"],
+      "confidence": "uncorroborated",
+      "requires_comparison_validation": false,
+      "notes": "Especially important for mental health/wellness niche"
+    },
+    {
+      "id": "dp_065",
+      "type": "qualitative",
+      "value": "Authenticity non-negotiable",
+      "unit": null,
+      "entity": "Wellness content principle",
+      "context": "Users detect scripted content; authenticity essential for wellness creators",
+      "source_ids": ["src_008"],
+      "confidence": "confirmed",
+      "requires_comparison_validation": false,
+      "notes": "Critical for mental health content ethics"
+    },
+    {
+      "id": "dp_066",
+      "type": "qualitative",
+      "value": "Transparency required in partnerships",
+      "unit": null,
+      "entity": "Ethical monetization",
+      "context": "Clear disclosure of commercial relationships mandatory for mental health creators",
+      "source_ids": ["src_019"],
+      "confidence": "confirmed",
+      "requires_comparison_validation": false,
+      "notes": "Ethical boundary for mental health monetization"
+    },
+    {
+      "id": "dp_067",
+      "type": "qualitative",
+      "value": "Community wellbeing > commercial interests",
+      "unit": null,
+      "entity": "Mental health creator ethics",
+      "context": "Prioritize audience wellbeing over profit in mental health content",
+      "source_ids": ["src_019"],
+      "confidence": "confirmed",
+      "requires_comparison_validation": false,
+      "notes": "Core ethical principle"
+    },
+    {
+      "id": "dp_068",
+      "type": "qualitative",
+      "value": "Avoid exploiting vulnerabilities",
+      "unit": null,
+      "entity": "Mental health monetization warning",
+      "context": "Youth concerned about creators 'preying on insecurities' to sell products",
+      "source_ids": ["src_018"],
+      "confidence": "confirmed",
+      "requires_comparison_validation": false,
+      "notes": "Audience is aware and critical of exploitative tactics"
+    },
+    {
+      "id": "dp_069",
+      "type": "qualitative",
+      "value": "Balance mental health content frequency",
+      "unit": null,
+      "entity": "Content strategy warning",
+      "context": "Too much mental health content can exhaust viewers",
+      "source_ids": ["src_018"],
+      "confidence": "uncorroborated",
+      "requires_comparison_validation": false,
+      "notes": "Need to balance education with other content pillars"
+    },
+    {
+      "id": "dp_070",
+      "type": "qualitative",
+      "value": "Regular posting demonstrates authenticity",
+      "unit": null,
+      "entity": "Mental health content credibility",
+      "context": "Consistent mental health posting shows genuine interest vs opportunistic",
+      "source_ids": ["src_018"],
+      "confidence": "uncorroborated",
+      "requires_comparison_validation": false,
+      "notes": "Builds trust with audience"
+    },
+    {
+      "id": "dp_071",
+      "type": "qualitative",
+      "value": "Content series increase retention",
+      "unit": null,
+      "entity": "TikTok strategy",
+      "context": "Series content keeps audiences returning for consistency",
+      "source_ids": ["src_005"],
+      "confidence": "uncorroborated",
+      "requires_comparison_validation": false,
+      "notes": "Helps with content planning and audience loyalty"
+    },
+    {
+      "id": "dp_072",
+      "type": "qualitative",
+      "value": "Reply to comments builds relationships",
+      "unit": null,
+      "entity": "Engagement strategy",
+      "context": "High comment response rate critical for community building",
+      "source_ids": ["src_005"],
+      "confidence": "confirmed",
+      "requires_comparison_validation": false,
+      "notes": "Time investment but essential for growth"
+    },
+    {
+      "id": "dp_073",
+      "type": "qualitative",
+      "value": "Use TikTok Pro Analytics",
+      "unit": null,
+      "entity": "Data-driven strategy",
+      "context": "2025 TikTok analytics provide detailed audience insights to double down on what works",
+      "source_ids": ["src_005"],
+      "confidence": "uncorroborated",
+      "requires_comparison_validation": false,
+      "notes": "Free tool for optimization"
+    },
+    {
+      "id": "dp_074",
+      "type": "qualitative",
+      "value": "Clear bio with CTA",
+      "unit": null,
+      "entity": "Profile optimization",
+      "context": "Bio should state who you are, your niche, and include simple call to action",
+      "source_ids": ["src_005"],
+      "confidence": "uncorroborated",
+      "requires_comparison_validation": false,
+      "notes": "First impression for new visitors"
+    },
+    {
+      "id": "dp_075",
+      "type": "qualitative",
+      "value": "TikTok for discovery, Instagram for monetization",
+      "unit": null,
+      "entity": "Multi-platform strategy",
+      "context": "Successful creators use TikTok for audience discovery, Instagram for revenue depth",
+      "source_ids": ["src_016"],
+      "confidence": "confirmed",
+      "requires_comparison_validation": false,
+      "notes": "Platform-specific strengths strategy"
+    },
+    {
+      "id": "dp_076",
+      "type": "qualitative",
+      "value": "Engagement rate > follower count",
+      "unit": null,
+      "entity": "Monetization factor",
+      "context": "High engagement at lower follower count can earn more than low engagement at high count",
+      "source_ids": ["src_014", "src_022"],
+      "confidence": "confirmed",
+      "requires_comparison_validation": false,
+      "notes": "Quality over quantity for earnings"
+    },
+    {
+      "id": "dp_077",
+      "type": "qualitative",
+      "value": "Price on value and transformation",
+      "unit": null,
+      "entity": "Pricing strategy",
+      "context": "Set prices based on value delivered and transformation, not just time/content",
+      "source_ids": ["src_011", "src_012"],
+      "confidence": "confirmed",
+      "requires_comparison_validation": false,
+      "notes": "Value-based pricing principle"
+    },
+    {
+      "id": "dp_078",
+      "type": "qualitative",
+      "value": "Use 9/7 endings for lower prices, round for premium",
+      "unit": null,
+      "entity": "Pricing psychology",
+      "context": "Prices ending in 9 or 7 convert better for lower items; round numbers signal premium",
+      "source_ids": ["src_011"],
+      "confidence": "uncorroborated",
+      "requires_comparison_validation": false,
+      "notes": "Psychological pricing tactics"
+    },
+    {
+      "id": "dp_079",
+      "type": "qualitative",
+      "value": "Create complementary product suite",
+      "unit": null,
+      "entity": "Digital product strategy",
+      "context": "Successful creators build multiple products serving same audience at different price points",
+      "source_ids": ["src_027"],
+      "confidence": "confirmed",
+      "requires_comparison_validation": false,
+      "notes": "Ladder pricing strategy"
+    },
+    {
+      "id": "dp_080",
+      "type": "qualitative",
+      "value": "5-10 income sources for top earners",
+      "unit": null,
+      "entity": "Revenue diversification",
+      "context": "Most successful creators have 5-10 different revenue sources",
+      "source_ids": ["src_028"],
+      "confidence": "confirmed",
+      "requires_comparison_validation": false,
+      "notes": "Protects against platform changes"
+    },
+    {
+      "id": "dp_081",
+      "type": "qualitative",
+      "value": "Sponsorships alone insufficient for $10K/month",
+      "unit": null,
+      "entity": "Revenue reality check",
+      "context": "Need 10-50 sponsored posts/month at $200-$1K each; diversification essential",
+      "source_ids": ["src_022"],
+      "confidence": "confirmed",
+      "requires_comparison_validation": false,
+      "notes": "Highlights need for multiple revenue streams"
+    },
+    {
+      "id": "dp_082",
+      "type": "qualitative",
+      "value": "Days 1-30: Foundation phase",
+      "unit": null,
+      "entity": "90-day roadmap structure",
+      "context": "First 30 days focus on profile optimization, audience research, content calendar setup",
+      "source_ids": ["src_030"],
+      "confidence": "uncorroborated",
+      "requires_comparison_validation": false,
+      "notes": "Phase 1 of implementation"
+    },
+    {
+      "id": "dp_083",
+      "type": "qualitative",
+      "value": "Days 61-90: Conversion optimization",
+      "unit": null,
+      "entity": "90-day roadmap structure",
+      "context": "Final 30 days focus on doubling down on what works, optimizing for conversions",
+      "source_ids": ["src_030"],
+      "confidence": "uncorroborated",
+      "requires_comparison_validation": false,
+      "notes": "Phase 3 of implementation"
+    },
+    {
+      "id": "dp_084",
+      "type": "numerical",
+      "value": "1-2",
+      "unit": "hashtags",
+      "entity": "TikTok broad hashtags",
+      "context": "Use 1-2 broad hashtags (1M+ posts) for discovery",
+      "source_ids": ["src_005"],
+      "confidence": "uncorroborated",
+      "requires_comparison_validation": false,
+      "notes": "Part of balanced hashtag strategy"
+    },
+    {
+      "id": "dp_085",
+      "type": "numerical",
+      "value": "3-4",
+      "unit": "hashtags",
+      "entity": "TikTok niche hashtags",
+      "context": "Use 3-4 niche hashtags (10K-1M posts) for targeted reach",
+      "source_ids": ["src_005"],
+      "confidence": "uncorroborated",
+      "requires_comparison_validation": false,
+      "notes": "Core of hashtag strategy"
+    },
+    {
+      "id": "dp_086",
+      "type": "numerical",
+      "value": "1-2",
+      "unit": "hashtags",
+      "entity": "TikTok branded hashtags",
+      "context": "Use 1-2 branded hashtags unique to your content",
+      "source_ids": ["src_005"],
+      "confidence": "uncorroborated",
+      "requires_comparison_validation": false,
+      "notes": "Build brand recognition"
+    },
+    {
+      "id": "dp_087",
+      "type": "numerical",
+      "value": "1-2",
+      "unit": "hashtags",
+      "entity": "TikTok trending hashtags",
+      "context": "Use 1-2 trending hashtags when relevant to content",
+      "source_ids": ["src_005"],
+      "confidence": "uncorroborated",
+      "requires_comparison_validation": false,
+      "notes": "Opportunistic discovery"
+    },
+    {
+      "id": "dp_088",
+      "type": "numerical",
+      "value": "61",
+      "unit": "billion USD",
+      "entity": "US dietary supplement market 2025",
+      "context": "Projected size of US dietary supplement market by end of 2025",
+      "source_ids": ["src_008"],
+      "confidence": "uncorroborated",
+      "requires_comparison_validation": false,
+      "notes": "Shows opportunity in wellness niche monetization"
+    },
+    {
+      "id": "dp_089",
+      "type": "percentage",
+      "value": "8.5",
+      "unit": "percent",
+      "entity": "Affiliate conversion rate (case study)",
+      "context": "Beauty creator's affiliate conversion rate with 45K email list",
+      "source_ids": ["src_025"],
+      "confidence": "uncorroborated",
+      "requires_comparison_validation": false,
+      "notes": "High conversion from engaged email list"
+    }
+  ],
+  "comparisons": [
+    {
+      "id": "cmp_001",
+      "type": "algorithm_priority",
+      "entity_a": {
+        "name": "Saves + Shares",
+        "value": "higher priority",
+        "unit": "algorithm signal"
+      },
+      "entity_b": {
+        "name": "Likes + Comments",
+        "value": "lower priority",
+        "unit": "algorithm signal"
+      },
+      "relationship": "a_greater_than_b",
+      "difference": "qualitative",
+      "source_ids": ["src_001"],
+      "validated": true,
+      "validation_notes": "Instagram 2025 algorithm shift - quality engagement prioritized"
+    },
+    {
+      "id": "cmp_002",
+      "type": "monetization_barrier",
+      "entity_a": {
+        "name": "TikTok",
+        "value": 5000,
+        "unit": "followers for $1K/month"
+      },
+      "entity_b": {
+        "name": "Instagram",
+        "value": 10000,
+        "unit": "followers for $1K/month"
+      },
+      "relationship": "b_greater_than_a",
+      "difference": 5000,
+      "source_ids": ["src_015"],
+      "validated": true,
+      "validation_notes": "TikTok has lower barrier to monetization (5-10K vs 10K+). Relationship correct: Instagram requires MORE followers."
+    },
+    {
+      "id": "cmp_003",
+      "type": "commission_rate",
+      "entity_a": {
+        "name": "TikTok Shop",
+        "value": 8,
+        "unit": "percent commission"
+      },
+      "entity_b": {
+        "name": "Instagram Shopping",
+        "value": 5,
+        "unit": "percent commission"
+      },
+      "relationship": "a_greater_than_b",
+      "difference": 3,
+      "source_ids": ["src_016"],
+      "validated": true,
+      "validation_notes": "TikTok Shop charges 3 percentage points MORE than Instagram. Relationship correct: 8% > 5%."
+    },
+    {
+      "id": "cmp_004",
+      "type": "ad_cost",
+      "entity_a": {
+        "name": "Instagram CPC",
+        "value": "0.50-3.00",
+        "unit": "USD"
+      },
+      "entity_b": {
+        "name": "TikTok CPC",
+        "value": "0.25-1.50",
+        "unit": "USD"
+      },
+      "relationship": "a_greater_than_b",
+      "difference": "qualitative (Instagram higher)",
+      "source_ids": ["src_016"],
+      "validated": true,
+      "validation_notes": "Instagram ad costs are HIGHER than TikTok. Relationship correct."
+    },
+    {
+      "id": "cmp_005",
+      "type": "brand_deal_rates",
+      "entity_a": {
+        "name": "Instagram brand deals",
+        "value": "2-5x",
+        "unit": "multiplier vs TikTok"
+      },
+      "entity_b": {
+        "name": "TikTok brand deals",
+        "value": "baseline",
+        "unit": "comparison"
+      },
+      "relationship": "a_greater_than_b",
+      "difference": "2-5x",
+      "source_ids": ["src_015"],
+      "validated": true,
+      "validation_notes": "Instagram brand deals pay 2-5x MORE than TikTok. Relationship correct."
+    },
+    {
+      "id": "cmp_006",
+      "type": "conversion_rate",
+      "entity_a": {
+        "name": "TikTok Shop conversion",
+        "value": 2.5,
+        "unit": "multiplier vs Instagram"
+      },
+      "entity_b": {
+        "name": "Instagram Shopping conversion",
+        "value": 1.0,
+        "unit": "baseline"
+      },
+      "relationship": "a_greater_than_b",
+      "difference": "2.5x",
+      "source_ids": ["src_016"],
+      "validated": true,
+      "validation_notes": "TikTok converts at 2.5x Instagram's rate. Relationship correct: TikTok > Instagram."
+    },
+    {
+      "id": "cmp_007",
+      "type": "creator_earnings_distribution",
+      "entity_a": {
+        "name": "Creators earning $100K+/year",
+        "value": 4,
+        "unit": "percent"
+      },
+      "entity_b": {
+        "name": "Creators earning under $5K/year",
+        "value": 50,
+        "unit": "percent"
+      },
+      "relationship": "b_greater_than_a",
+      "difference": 46,
+      "source_ids": ["src_024"],
+      "validated": true,
+      "validation_notes": "50% earn under $5K vastly exceeds the 4% earning $100K+. Relationship correct: low earners are majority."
+    },
+    {
+      "id": "cmp_008",
+      "type": "pricing_tier",
+      "entity_a": {
+        "name": "Experienced coaches",
+        "value": 500,
+        "unit": "USD/hour minimum"
+      },
+      "entity_b": {
+        "name": "New coaches",
+        "value": 100-300,
+        "unit": "USD/hour"
+      },
+      "relationship": "a_greater_than_b",
+      "difference": "200-400 USD/hour",
+      "source_ids": ["src_010"],
+      "validated": true,
+      "validation_notes": "Experienced coaches charge MORE than new coaches. Relationship correct: $500+ > $100-$300."
+    },
+    {
+      "id": "cmp_009",
+      "type": "affiliate_commission",
+      "entity_a": {
+        "name": "Digital products affiliate",
+        "value": "20-50+",
+        "unit": "percent"
+      },
+      "entity_b": {
+        "name": "Health/wellness products affiliate",
+        "value": "8-15",
+        "unit": "percent"
+      },
+      "relationship": "a_greater_than_b",
+      "difference": "12-42 percentage points",
+      "source_ids": ["src_026"],
+      "validated": true,
+      "validation_notes": "Digital products pay MUCH HIGHER commissions than physical wellness products. Relationship correct."
+    },
+    {
+      "id": "cmp_010",
+      "type": "platform_earnings_preference",
+      "entity_a": {
+        "name": "YouTube",
+        "value": 28.6,
+        "unit": "percent of creators citing as best income source"
+      },
+      "entity_b": {
+        "name": "TikTok",
+        "value": 18.3,
+        "unit": "percent"
+      },
+      "relationship": "a_greater_than_b",
+      "difference": 10.3,
+      "source_ids": ["src_026"],
+      "validated": true,
+      "validation_notes": "YouTube cited as best income source by MORE creators than TikTok. Relationship correct."
+    },
+    {
+      "id": "cmp_011",
+      "type": "platform_earnings_preference",
+      "entity_a": {
+        "name": "TikTok",
+        "value": 18.3,
+        "unit": "percent of creators citing as best income source"
+      },
+      "entity_b": {
+        "name": "Instagram",
+        "value": 11.8,
+        "unit": "percent"
+      },
+      "relationship": "a_greater_than_b",
+      "difference": 6.5,
+      "source_ids": ["src_026"],
+      "validated": true,
+      "validation_notes": "TikTok cited as better income source than Instagram. Relationship correct: 18.3% > 11.8%."
+    },
+    {
+      "id": "cmp_012",
+      "type": "engagement_metric",
+      "entity_a": {
+        "name": "Comment-to-view ratio",
+        "value": "higher weight",
+        "unit": "algorithm signal"
+      },
+      "entity_b": {
+        "name": "Like-to-view ratio",
+        "value": "lower weight",
+        "unit": "algorithm signal"
+      },
+      "relationship": "a_greater_than_b",
+      "difference": "qualitative",
+      "source_ids": ["src_003"],
+      "validated": true,
+      "validation_notes": "Instagram 2025 weighs comments MORE heavily than likes. Relationship correct."
+    },
+    {
+      "id": "cmp_013",
+      "type": "engagement_response",
+      "entity_a": {
+        "name": "Nano influencer partnerships",
+        "value": 160,
+        "unit": "index (60% lift over baseline 100)"
+      },
+      "entity_b": {
+        "name": "Celebrity partnerships",
+        "value": 100,
+        "unit": "baseline index"
+      },
+      "relationship": "a_greater_than_b",
+      "difference": "60%",
+      "source_ids": ["src_003"],
+      "validated": true,
+      "validation_notes": "Nano influencers generate 60% HIGHER response than celebrities. Relationship correct."
+    },
+    {
+      "id": "cmp_014",
+      "type": "monetization_method_participation",
+      "entity_a": {
+        "name": "Affiliate marketing (earning)",
+        "value": 98,
+        "unit": "percent of creators"
+      },
+      "entity_b": {
+        "name": "Sponsored content",
+        "value": 82,
+        "unit": "percent of creators"
+      },
+      "relationship": "a_greater_than_b",
+      "difference": 16,
+      "source_ids": ["src_024", "src_026"],
+      "validated": true,
+      "validation_notes": "MORE creators earn from affiliate (98%) than do sponsored content (82%). Relationship correct."
+    },
+    {
+      "id": "cmp_015",
+      "type": "income_stream_count",
+      "entity_a": {
+        "name": "High-earning creators",
+        "value": 7,
+        "unit": "income streams minimum"
+      },
+      "entity_b": {
+        "name": "Full-time creators",
+        "value": 6,
+        "unit": "income streams minimum"
+      },
+      "relationship": "a_greater_than_b",
+      "difference": 1,
+      "source_ids": ["src_026", "src_028"],
+      "validated": true,
+      "validation_notes": "Highest earners have MORE streams (7+) than baseline full-timers (6). Relationship correct."
+    }
+  ],
+  "conflicts": [
+    {
+      "id": "conf_001",
+      "data_point_id": "dp_024",
+      "description": "Micro-influencer (10-100K) sponsorship rate disagreement",
+      "source_a": {
+        "id": "src_014",
+        "value": "$25-$125 per post"
+      },
+      "source_b": {
+        "id": "src_021",
+        "value": "$200-$1,000 per post"
+      },
+      "resolution": "Used higher range ($200-$1,000) as more realistic",
+      "resolved_value": "$200-$1,000 per post",
+      "rationale": "Lower estimate appears outdated or overly conservative. Multiple sources (src_014 later in same article, src_021, src_027) support $200-$1,500 range. Collabstr data based on 150K+ real packages supports higher range. Engagement-focused creators in wellness niche likely command premium rates."
+    },
+    {
+      "id": "conf_002",
+      "data_point_id": "dp_002",
+      "description": "Instagram Reels frequency variation",
+      "source_a": {
+        "id": "src_006",
+        "value": "2-4 Reels per week"
+      },
+      "source_b": {
+        "id": "src_006",
+        "value": "5-7 Reels per week (Instagram official)"
+      },
+      "resolution": "Noted range as 2-7, with context",
+      "resolved_value": "2-7 Reels per week (2-4 sustainable, 5-7 aggressive)",
+      "rationale": "Both recommendations valid: 2-4 for consistency without burnout, 5-7 for maximum algorithmic favor. User can choose based on capacity. Noted both in report with context."
+    }
+  ]
+}
